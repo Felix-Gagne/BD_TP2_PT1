@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SussyKart_Partie1", "SussyKart_Partie1.csproj", "{DA4842EC-CD8F-45F0-AE7B-5AF6C02DC5EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA4842EC-CD8F-45F0-AE7B-5AF6C02DC5EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA4842EC-CD8F-45F0-AE7B-5AF6C02DC5EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA4842EC-CD8F-45F0-AE7B-5AF6C02DC5EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA4842EC-CD8F-45F0-AE7B-5AF6C02DC5EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56A60864-7980-4A04-8510-626D196DB622}
+	EndGlobalSection
+EndGlobal

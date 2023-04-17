@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SussyKart_Partie1.props" />
+</Project>

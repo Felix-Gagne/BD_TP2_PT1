@@ -1,0 +1,327 @@
+@charset "UTF-8";
+
+body {
+    font-family: Verdana;
+    background-color: #e9e9f2
+}
+
+[class^=col] {
+    padding: 0px;
+}
+
+/* ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ */
+/* •○•○•     HEADER    •○•○• */
+/* ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ */
+
+header {
+    background-color: #383281;
+    color: white;
+}
+
+.mainTitle {
+    font-weight: bold;
+    font-size: 1.4em;
+    padding-left: 25px !important;
+}
+
+/* ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ */
+/* •○•○•     INDEX et INDEXstats    •○•○• */
+/* ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ */
+
+.bienvenue {
+    background-color: #383281;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.menuIndex > .row {
+    gap: 5px;
+    margin: 5px 0px;
+    justify-content: center;
+}
+
+.menuIndex img {
+    border: #383281 5px solid;
+    padding: 3px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+    .menuIndex img:hover {
+        opacity: 0.5;
+    }
+
+.menuIndex .col-auto {
+    position: relative;
+}
+
+.menuTitle {
+    position: absolute;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+    margin: auto;
+    width: 150px;
+    top: 15px;
+    left: 0px;
+    right: 0px;
+    color: white;
+    font-weight: bold;
+}
+
+.statTitle {
+    position: absolute;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 5px;
+    margin: auto;
+    padding:0px 10px;
+    bottom: 10px;
+    right: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 0.8em;
+}
+
+/* ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ */
+/* •○•○•          Tutoriel          •○•○• */
+/* ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ */
+
+.tutoriel > .row > div {
+    background-color: #383281;
+    color: white;
+    padding: 10px;
+}
+
+.tutoriel > .row .col-auto:last-child img {
+    border: white solid 3px;
+}
+
+/* ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ */
+/* •○•○•            Profil          •○•○• */
+/* ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ */
+
+.profil {
+    
+}
+
+.profil>.row>.col-6{
+    background-color: #383281;
+    padding: 20px;
+    border-radius: 20px;
+    color:white;
+}
+
+/* ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ */
+/* •○•○•          Connexion         •○•○• */
+/* ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ */
+
+.connexion>.row>[class^=col] {
+    background-color: #383281;
+    padding:20px;
+    border-radius:20px;
+}
+
+.connexion {
+    color: white;
+}
+
+.connexion label{
+    max-width:100%
+}
+
+
+/* ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ */
+/* •○•○•      JEU      •○•○• */
+/* ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ */
+
+.rowScore{
+    display:flex;
+    justify-content-center;
+    padding-top:10px;
+}
+
+#formJeu{
+    margin:0 auto;
+}
+
+#formJeu input{
+    display:none;
+}
+
+#formJeu .btn {
+    background-color: #383281;
+    color:white;
+    font-weight:bold;
+}
+
+.raceChoice {
+    padding-right: 25px;
+}
+
+.raceChoiceRight {
+    padding-left: 25px;
+}
+
+.raceChoice > div, .raceChoiceRight > div {
+    position: relative;
+    margin-bottom: 5px;
+    width: 200px;
+    margin-right: 0px;
+}
+
+.raceChoice > div img, .raceChoiceRight > div img {
+    border-radius: 10px;
+}
+
+.raceChoice .raceTitle, .raceChoiceRight .raceTitle {
+    color: white;
+    position: absolute;
+    bottom: 5px;
+    left: 0;
+    right: 0;
+    font-size: 0.8em;
+    font-weight: bold;        
+    text-align: center;
+}
+
+.menu {
+    gap: 5px;
+}
+
+    .menu .btn {
+        background-color: #383281;
+        color: white;
+        font-weight: bold;
+    }
+
+.preparation img {
+    background-color: white;
+    padding: 3px;
+    border-radius: 3px;
+}
+
+    .preparation img:first-child {
+        margin-left: 3px;
+    }
+
+.amogus {
+    vertical-align: middle;
+}
+
+.amogus {
+    margin-left: 0px;
+    width: 21px;
+}
+
+#container {
+    width: 809px;
+    height: 610px;
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    position: relative;
+    border: #383281 solid 5px;
+}
+
+#controls {
+    width: 800px;
+    justify-content: center;
+    display: flex;
+    margin: auto;
+    margin-top: 5px;
+    gap: 5px;
+    position: absolute;
+    right: 0px;
+    left: 0px;
+    flex-wrap: wrap;
+}
+
+    #controls img {
+        border: #383281 5px solid;
+        border-radius: 5px;
+        display: inline-block;
+        z-index: 100;
+    }
+
+.joueur, .ombre, #course {
+    position: absolute;
+    transition: filter 0.5s;
+}
+
+.joueur {
+    z-index: 2;
+}
+
+.ombre {
+    z-index: 1;
+}
+
+button {
+    padding: 3px 10px;
+    font-size: 1em;
+    cursor: pointer;
+    margin: 0px;
+}
+
+#chrono, #tours {
+    position: absolute;
+    color: white;
+}
+
+#chrono {
+    top: 5px;
+    left: 5px;
+}
+
+#tours {
+    top: 5px;
+    right: 5px;
+}
+
+#scores {
+    padding: 10px;
+    position: absolute;
+    top: 180px;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    text-align: center;
+    z-index: 1001;
+}
+
+    #scores div {
+        padding: 10px;
+    }
+
+    #scores hr {
+        margin-top: 0.75rem;
+        margin-bottom: 5px;
+        border: white solid 1px;
+    }
+
+#wow {
+    position: absolute;
+    z-index: 1000;
+}
+
+.box {
+    position: absolute;
+}
+
+.item {
+    position: absolute;
+}
+
+.invisible {
+    display: none;
+}
+
+.boost {
+    filter: brightness(3);
+}
+
+.race {
+    position: absolute;
+}

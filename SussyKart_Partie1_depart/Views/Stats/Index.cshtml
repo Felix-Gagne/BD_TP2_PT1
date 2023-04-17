@@ -1,0 +1,37 @@
+﻿<div class="container mt-2">
+    <div class="row justify-content-center">
+        <div class="col-10 bienvenue">
+            <h2>Statistiques</h2>
+            Consultez les statistiques sur vos parties, les parties de vos amis et celles des autres joueurs !
+        </div>
+    </div>
+</div>
+
+<div class="container mt-2 menuIndex">
+    <div class="row">
+        <a class="col-auto" asp-action="ToutesParticipations">
+            <img src="/images/boutonStats0.png" alt="Stats">
+            <span class="statTitle">Toutes les participations</span>
+        </a>
+    </div>
+    <div class="row">
+        <a class="col-auto" asp-action="ParticipationsParCourse">
+            <img src="/images/boutonStats1.png" alt="Stats">
+            <span class="statTitle">Participations par course</span>
+        </a>
+        <a class="col-auto" asp-action="ChronoParCourseParTour">
+            <img src="/images/boutonStats2.png" alt="Stats">
+            <span class="statTitle">Chrono moyen par course par tour</span>
+        </a>
+    </div>
+    <div class="row">
+        <a class="col-auto" asp-action="MeilleursChronosSolo">
+            <img src="/images/boutonStats3.png" alt="Stats">
+            <span class="statTitle">Meilleurs chronos solo</span>
+        </a>
+		<a class="col-auto" asp-action="MeilleursChronosQuatre">
+            <img src="/images/boutonStats6.png" alt="Stats">
+            <span class="statTitle">Meilleurs chronos à 4</span>
+        </a>
+    </div>
+</div>

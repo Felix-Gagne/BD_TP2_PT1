@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SussyKart_Partie1/1.0.0": {
+        "runtime": {
+          "SussyKart_Partie1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SussyKart_Partie1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

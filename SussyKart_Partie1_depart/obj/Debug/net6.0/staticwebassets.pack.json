@@ -1,0 +1,801 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\avatarPlaceholder.png",
+      "PackagePath": "staticwebassets\\images\\avatarPlaceholder.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\background.png",
+      "PackagePath": "staticwebassets\\images\\background.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\banana.png",
+      "PackagePath": "staticwebassets\\images\\banana.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\bananaTrap.png",
+      "PackagePath": "staticwebassets\\images\\bananaTrap.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\boutonJouer.png",
+      "PackagePath": "staticwebassets\\images\\boutonJouer.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\boutonProfilAmis.png",
+      "PackagePath": "staticwebassets\\images\\boutonProfilAmis.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\boutonStatistiques.png",
+      "PackagePath": "staticwebassets\\images\\boutonStatistiques.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\boutonStats0.png",
+      "PackagePath": "staticwebassets\\images\\boutonStats0.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\boutonStats1.png",
+      "PackagePath": "staticwebassets\\images\\boutonStats1.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\boutonStats2.png",
+      "PackagePath": "staticwebassets\\images\\boutonStats2.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\boutonStats3.png",
+      "PackagePath": "staticwebassets\\images\\boutonStats3.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\boutonStats4.png",
+      "PackagePath": "staticwebassets\\images\\boutonStats4.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\boutonStats5.png",
+      "PackagePath": "staticwebassets\\images\\boutonStats5.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\boutonStats6.png",
+      "PackagePath": "staticwebassets\\images\\boutonStats6.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\boutonTutoriel.png",
+      "PackagePath": "staticwebassets\\images\\boutonTutoriel.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\box.gif",
+      "PackagePath": "staticwebassets\\images\\box.gif"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\explosion.png",
+      "PackagePath": "staticwebassets\\images\\explosion.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\itemWait.gif",
+      "PackagePath": "staticwebassets\\images\\itemWait.gif"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\mushroom.png",
+      "PackagePath": "staticwebassets\\images\\mushroom.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\ombre.png",
+      "PackagePath": "staticwebassets\\images\\ombre.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p1Down.png",
+      "PackagePath": "staticwebassets\\images\\p1Down.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p1DownDownLeft.png",
+      "PackagePath": "staticwebassets\\images\\p1DownDownLeft.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p1DownDownRight.png",
+      "PackagePath": "staticwebassets\\images\\p1DownDownRight.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p1DownLeft.png",
+      "PackagePath": "staticwebassets\\images\\p1DownLeft.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p1DownLeftLeft.png",
+      "PackagePath": "staticwebassets\\images\\p1DownLeftLeft.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p1DownRight.png",
+      "PackagePath": "staticwebassets\\images\\p1DownRight.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p1DownRightRight.png",
+      "PackagePath": "staticwebassets\\images\\p1DownRightRight.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p1Left.png",
+      "PackagePath": "staticwebassets\\images\\p1Left.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p1Right.png",
+      "PackagePath": "staticwebassets\\images\\p1Right.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p1Up.png",
+      "PackagePath": "staticwebassets\\images\\p1Up.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p1UpLeft.png",
+      "PackagePath": "staticwebassets\\images\\p1UpLeft.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p1UpLeftLeft.png",
+      "PackagePath": "staticwebassets\\images\\p1UpLeftLeft.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p1UpRight.png",
+      "PackagePath": "staticwebassets\\images\\p1UpRight.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p1UpRightRight.png",
+      "PackagePath": "staticwebassets\\images\\p1UpRightRight.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p1UpUpLeft.png",
+      "PackagePath": "staticwebassets\\images\\p1UpUpLeft.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p1UpUpRight.png",
+      "PackagePath": "staticwebassets\\images\\p1UpUpRight.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p1controls.png",
+      "PackagePath": "staticwebassets\\images\\p1controls.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p2Down.png",
+      "PackagePath": "staticwebassets\\images\\p2Down.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p2DownDownLeft.png",
+      "PackagePath": "staticwebassets\\images\\p2DownDownLeft.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p2DownDownRight.png",
+      "PackagePath": "staticwebassets\\images\\p2DownDownRight.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p2DownLeft.png",
+      "PackagePath": "staticwebassets\\images\\p2DownLeft.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p2DownLeftLeft.png",
+      "PackagePath": "staticwebassets\\images\\p2DownLeftLeft.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p2DownRight.png",
+      "PackagePath": "staticwebassets\\images\\p2DownRight.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p2DownRightRight.png",
+      "PackagePath": "staticwebassets\\images\\p2DownRightRight.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p2Left.png",
+      "PackagePath": "staticwebassets\\images\\p2Left.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p2Right.png",
+      "PackagePath": "staticwebassets\\images\\p2Right.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p2Up.png",
+      "PackagePath": "staticwebassets\\images\\p2Up.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p2UpLeft.png",
+      "PackagePath": "staticwebassets\\images\\p2UpLeft.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p2UpLeftLeft.png",
+      "PackagePath": "staticwebassets\\images\\p2UpLeftLeft.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p2UpRight.png",
+      "PackagePath": "staticwebassets\\images\\p2UpRight.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p2UpRightRight.png",
+      "PackagePath": "staticwebassets\\images\\p2UpRightRight.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p2UpUpLeft.png",
+      "PackagePath": "staticwebassets\\images\\p2UpUpLeft.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p2UpUpRight.png",
+      "PackagePath": "staticwebassets\\images\\p2UpUpRight.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p2controls.png",
+      "PackagePath": "staticwebassets\\images\\p2controls.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p3Down.png",
+      "PackagePath": "staticwebassets\\images\\p3Down.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p3DownDownLeft.png",
+      "PackagePath": "staticwebassets\\images\\p3DownDownLeft.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p3DownDownRight.png",
+      "PackagePath": "staticwebassets\\images\\p3DownDownRight.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p3DownLeft.png",
+      "PackagePath": "staticwebassets\\images\\p3DownLeft.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p3DownLeftLeft.png",
+      "PackagePath": "staticwebassets\\images\\p3DownLeftLeft.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p3DownRight.png",
+      "PackagePath": "staticwebassets\\images\\p3DownRight.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p3DownRightRight.png",
+      "PackagePath": "staticwebassets\\images\\p3DownRightRight.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p3Left.png",
+      "PackagePath": "staticwebassets\\images\\p3Left.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p3Right.png",
+      "PackagePath": "staticwebassets\\images\\p3Right.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p3Up.png",
+      "PackagePath": "staticwebassets\\images\\p3Up.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p3UpLeft.png",
+      "PackagePath": "staticwebassets\\images\\p3UpLeft.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p3UpLeftLeft.png",
+      "PackagePath": "staticwebassets\\images\\p3UpLeftLeft.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p3UpRight.png",
+      "PackagePath": "staticwebassets\\images\\p3UpRight.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p3UpRightRight.png",
+      "PackagePath": "staticwebassets\\images\\p3UpRightRight.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p3UpUpLeft.png",
+      "PackagePath": "staticwebassets\\images\\p3UpUpLeft.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p3UpUpRight.png",
+      "PackagePath": "staticwebassets\\images\\p3UpUpRight.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p3controls.png",
+      "PackagePath": "staticwebassets\\images\\p3controls.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p4Down.png",
+      "PackagePath": "staticwebassets\\images\\p4Down.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p4DownDownLeft.png",
+      "PackagePath": "staticwebassets\\images\\p4DownDownLeft.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p4DownDownRight.png",
+      "PackagePath": "staticwebassets\\images\\p4DownDownRight.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p4DownLeft.png",
+      "PackagePath": "staticwebassets\\images\\p4DownLeft.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p4DownLeftLeft.png",
+      "PackagePath": "staticwebassets\\images\\p4DownLeftLeft.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p4DownRight.png",
+      "PackagePath": "staticwebassets\\images\\p4DownRight.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p4DownRightRight.png",
+      "PackagePath": "staticwebassets\\images\\p4DownRightRight.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p4Left.png",
+      "PackagePath": "staticwebassets\\images\\p4Left.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p4Right.png",
+      "PackagePath": "staticwebassets\\images\\p4Right.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p4Up.png",
+      "PackagePath": "staticwebassets\\images\\p4Up.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p4UpLeft.png",
+      "PackagePath": "staticwebassets\\images\\p4UpLeft.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p4UpLeftLeft.png",
+      "PackagePath": "staticwebassets\\images\\p4UpLeftLeft.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p4UpRight.png",
+      "PackagePath": "staticwebassets\\images\\p4UpRight.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p4UpRightRight.png",
+      "PackagePath": "staticwebassets\\images\\p4UpRightRight.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p4UpUpLeft.png",
+      "PackagePath": "staticwebassets\\images\\p4UpUpLeft.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p4UpUpRight.png",
+      "PackagePath": "staticwebassets\\images\\p4UpUpRight.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\p4controls.png",
+      "PackagePath": "staticwebassets\\images\\p4controls.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\pDown.png",
+      "PackagePath": "staticwebassets\\images\\pDown.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\pDownDownLeft.png",
+      "PackagePath": "staticwebassets\\images\\pDownDownLeft.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\pDownDownRight.png",
+      "PackagePath": "staticwebassets\\images\\pDownDownRight.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\pDownLeft.png",
+      "PackagePath": "staticwebassets\\images\\pDownLeft.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\pDownLeftLeft.png",
+      "PackagePath": "staticwebassets\\images\\pDownLeftLeft.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\pDownRight.png",
+      "PackagePath": "staticwebassets\\images\\pDownRight.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\pDownRightRight.png",
+      "PackagePath": "staticwebassets\\images\\pDownRightRight.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\pLeft.png",
+      "PackagePath": "staticwebassets\\images\\pLeft.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\pRight.png",
+      "PackagePath": "staticwebassets\\images\\pRight.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\pUp.png",
+      "PackagePath": "staticwebassets\\images\\pUp.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\pUpLeft.png",
+      "PackagePath": "staticwebassets\\images\\pUpLeft.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\pUpLeftLeft.png",
+      "PackagePath": "staticwebassets\\images\\pUpLeftLeft.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\pUpRight.png",
+      "PackagePath": "staticwebassets\\images\\pUpRight.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\pUpRightRight.png",
+      "PackagePath": "staticwebassets\\images\\pUpRightRight.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\pUpUpLeft.png",
+      "PackagePath": "staticwebassets\\images\\pUpUpLeft.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\pUpUpRight.png",
+      "PackagePath": "staticwebassets\\images\\pUpUpRight.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\race1.png",
+      "PackagePath": "staticwebassets\\images\\race1.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\race1logo.png",
+      "PackagePath": "staticwebassets\\images\\race1logo.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\race2.png",
+      "PackagePath": "staticwebassets\\images\\race2.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\race2logo.png",
+      "PackagePath": "staticwebassets\\images\\race2logo.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\race3.png",
+      "PackagePath": "staticwebassets\\images\\race3.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\race3logo.png",
+      "PackagePath": "staticwebassets\\images\\race3logo.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\race4.png",
+      "PackagePath": "staticwebassets\\images\\race4.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\race4logo.png",
+      "PackagePath": "staticwebassets\\images\\race4logo.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\race5.png",
+      "PackagePath": "staticwebassets\\images\\race5.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\race5logo.png",
+      "PackagePath": "staticwebassets\\images\\race5logo.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\race6.png",
+      "PackagePath": "staticwebassets\\images\\race6.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\race6logo.png",
+      "PackagePath": "staticwebassets\\images\\race6logo.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\rocket.png",
+      "PackagePath": "staticwebassets\\images\\rocket.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\rocketDown.png",
+      "PackagePath": "staticwebassets\\images\\rocketDown.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\rocketDownLeft.png",
+      "PackagePath": "staticwebassets\\images\\rocketDownLeft.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\rocketDownRight.png",
+      "PackagePath": "staticwebassets\\images\\rocketDownRight.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\rocketLeft.png",
+      "PackagePath": "staticwebassets\\images\\rocketLeft.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\rocketRight.png",
+      "PackagePath": "staticwebassets\\images\\rocketRight.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\rocketUp.png",
+      "PackagePath": "staticwebassets\\images\\rocketUp.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\rocketUpLeft.png",
+      "PackagePath": "staticwebassets\\images\\rocketUpLeft.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\rocketUpRight.png",
+      "PackagePath": "staticwebassets\\images\\rocketUpRight.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\star.png",
+      "PackagePath": "staticwebassets\\images\\star.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\tapisDroite.gif",
+      "PackagePath": "staticwebassets\\images\\tapisDroite.gif"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\tapisGauche.gif",
+      "PackagePath": "staticwebassets\\images\\tapisGauche.gif"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\tuto1.png",
+      "PackagePath": "staticwebassets\\images\\tuto1.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\tuto2.png",
+      "PackagePath": "staticwebassets\\images\\tuto2.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\tuto3.png",
+      "PackagePath": "staticwebassets\\images\\tuto3.png"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\images\\wow.gif",
+      "PackagePath": "staticwebassets\\images\\wow.gif"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\js\\classes.js",
+      "PackagePath": "staticwebassets\\js\\classes.js"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\js\\script2.js",
+      "PackagePath": "staticwebassets\\js\\script2.js"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\base de données et prog web\\tps\\TP2_partie1\\SussyKart_Partie1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.SussyKart_Partie1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.SussyKart_Partie1.props",
+      "PackagePath": "build\\SussyKart_Partie1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SussyKart_Partie1.props",
+      "PackagePath": "buildMultiTargeting\\SussyKart_Partie1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.SussyKart_Partie1.props",
+      "PackagePath": "buildTransitive\\SussyKart_Partie1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

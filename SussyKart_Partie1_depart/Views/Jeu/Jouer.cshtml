@@ -1,0 +1,172 @@
+﻿@model ParticipationVM
+
+<div class="container mt-2">
+        <div class="row menu justify-content-center">
+            <button id="one" class="preparation btn">1 joueur 
+                <img src="/images/p1Down.png" class="amogus" alt="Amogus">
+            </button>
+            <button id="two" class="preparation btn">2 joueurs 
+                <img src="/images/p1Down.png" class="amogus" alt="Amogus">
+                <img src="/images/p2Down.png" class="amogus" alt="Amogus">
+            </button>
+            <button id="three" class="preparation btn">3 joueurs 
+                <img src="/images/p1Down.png" class="amogus" alt="Amogus">
+                <img src="/images/p2Down.png" class="amogus" alt="Amogus">
+                <img src="/images/p3Down.png" class="amogus" alt="Amogus">
+            </button>
+            <button id="four" class="preparation btn">4 joueurs 
+                <img src="/images/p1Down.png" class="amogus" alt="Amogus">
+            <img src="/images/p2Down.png" class="amogus" alt="Amogus">
+            <img src="/images/p3Down.png" class="amogus" alt="Amogus">
+            <img src="/images/p4Down.png" class="amogus" alt="Amogus">
+            </button>
+            <button id="go" class="btn"  style="display:none;">Lancer la partie <i class="bi bi-play-circle-fill"></i></button>
+        <button id="stop" class="btn" style="display:none;">Annuler la partie <i class="bi bi-stop-circle-fill"></i></button>
+        </div>
+</div>
+
+<div class="container-fluid">
+    <div class="row justify-content-center align-items-center">
+        <div class="col-2">
+            <div class="row justify-content-end raceChoice">
+                <div id="raceChoice1" class="col-auto">
+                    <span class="raceTitle">Donut</span>
+                    <img src="/images/race1logo.png" alt="Course 1">
+                </div>
+            </div>
+            <div class="row justify-content-end raceChoice">
+                <div id="raceChoice2" class="col-auto">
+                    <span class="raceTitle">8 Classique</span>
+                    <img src="/images/race2logo.png" alt="Course 2">
+                </div>
+            </div>
+            <div class="row justify-content-end raceChoice">
+                <div id="raceChoice3" class="col-auto">
+                    <span class="raceTitle">Détours Confondants</span>
+                    <img src="/images/race3logo.png" alt="Course 3">
+                </div>
+            </div>
+        </div>
+        <div id="container" class="col-auto">
+            <div id="controls">
+                <img id="controls0" src="/images/p1controls.png" alt="Contrôles P1" style="display:none;">
+                <img id="controls1" src="/images/p2controls.png" alt="Contrôles P2" style="display:none;">
+                <img id="controls2" src="/images/p3controls.png" alt="Contrôles P3" style="display:none;">
+                <img id="controls3" src="/images/p4controls.png" alt="Contrôles P4" style="display:none;">
+            </div>
+
+            <img src="/images/background.png" alt="Fond">
+            <div id="chrono">00:00</div>
+
+            <!-- Affichage des tours complétés  -->
+            <div id="tours">
+                <div class="tour" style="display:none;"><img src="/images/p1Down.png" class="amogus" alt="Amogus"><span class="tourJoueur"> 1/2</span></div>
+                <div class="tour" style="display:none;"><img src="/images/p2Down.png" class="amogus" alt="Amogus"><span class="tourJoueur"> 1/2</span></div>
+                <div class="tour" style="display:none;"><img src="/images/p3Down.png" class="amogus" alt="Amogus"><span class="tourJoueur"> 1/2</span></div>
+                <div class="tour" style="display:none;"><img src="/images/p4Down.png" class="amogus" alt="Amogus"><span class="tourJoueur"> 1/2</span></div>
+            </div>
+
+            <!-- Une ombre pour chaque joueur (oval gris sous la voiture) -->
+            <img class="ombre" src="/images/ombre.png" alt="Ombre 1" style="left:520px; top:75px; display:none;">
+            <img class="ombre" src="/images/ombre.png" alt="Ombre 2" style="left:490px; top:95px; display:none;">
+            <img class="ombre" src="/images/ombre.png" alt="Ombre 3" style="left:460px; top:115px; display:none;">
+            <img class="ombre" src="/images/ombre.png" alt="Ombre 4" style="left:430px; top:135px; display:none;">
+
+            <!-- Une image pour chaque joueur (voiture et alien) -->
+            <img id="player1" class="joueur" src="/images/p1Right.png" alt="Player 1" style="left:520px; top:75px; display:none;">
+            <img id="player2" class="joueur" src="/images/p2Right.png" alt="Player 2" style="left:490px; top:95px; display:none;">
+            <img id="player3" class="joueur" src="/images/p3Right.png" alt="Player 3" style="left:460px; top:115px; display:none;">
+            <img id="player4" class="joueur" src="/images/p4Right.png" alt="Player 4" style="left:430px; top:135px; display:none;">
+
+            <!-- Panneau de scores -->
+            <div id="scores" style="display:none;">
+                ⭐ Scores ⭐
+                <hr>
+                <div id="score0"><img src="/images/p1Down.png" class="amogus" alt="Amogus"> <span id="scoreJoueur0">1er - 00:00</span></div>
+                <div id="score1"><img src="/images/p2Down.png" class="amogus" alt="Amogus"> <span id="scoreJoueur1">2e - 00:00</span></div>
+                <div id="score2"><img src="/images/p3Down.png" class="amogus" alt="Amogus"> <span id="scoreJoueur2">3e - 00:00</span></div>
+                <div id="score3"><img src="/images/p4Down.png" class="amogus" alt="Amogus"> <span id="scoreJoueur3">4e - 00:00</span></div>
+            </div>
+
+            <img id="race1" class="race" src="/images/race1.png" alt="Course 1" style="left:175px; top:150px;">
+            <img id="race2" class="race" src="/images/race2.png" alt="Course 2" style="left:0px; top:0px; display:none;">
+            <img id="race3" class="race" src="/images/race3.png" alt="Course 3" style="left:0px; top:0px; display:none;">
+            <img id="race4" class="race" src="/images/race4.png" alt="Course 4" style="left:0px; top:0px; display:none;">
+            <img id="race5" class="race" src="/images/race5.png" alt="Course 5" style="left:0px; top:0px; display:none;">
+            <img id="race6" class="race" src="/images/race6.png" alt="Course 6" style="left:0px; top:0px; display:none;">
+
+            <!-- Wow ! -->
+            <img id="wow" src="/images/wow.gif" alt="Wow !" style="left:150px; top:100px;" class="invisible">
+
+            <!-- Boîtes -->
+            <img id="box0" class="box" src="/images/box.gif" alt="Boîte" style="display:none;">
+            <img id="box1" class="box" src="/images/box.gif" alt="Boîte" style="display:none;">
+            <img id="box2" class="box" src="/images/box.gif" alt="Boîte" style="display:none;">
+            <img id="box3" class="box" src="/images/box.gif" alt="Boîte" style="display:none;">
+            <img id="box4" class="box" src="/images/box.gif" alt="Boîte" style="display:none;">
+            <img id="box5" class="box" src="/images/box.gif" alt="Boîte" style="display:none;">
+
+            <!-- Head items -->
+            <img id="item0" src="/images/itemWait.gif" class="item" alt="Item" style="display:none;">
+            <img id="item1" src="/images/itemWait.gif" class="item" alt="Item" style="display:none;">
+            <img id="item2" src="/images/itemWait.gif" class="item" alt="Item" style="display:none;">
+            <img id="item3" src="/images/itemWait.gif" class="item" alt="Item" style="display:none;">
+
+            <!-- Bananas -->
+            <img id="banana0" src="/images/bananaTrap.png" class="item" alt="Banana" style="display:none;">
+            <img id="banana1" src="/images/bananaTrap.png" class="item" alt="Banana" style="display:none;">
+            <img id="banana2" src="/images/bananaTrap.png" class="item" alt="Banana" style="display:none;">
+            <img id="banana3" src="/images/bananaTrap.png" class="item" alt="Banana" style="display:none;">
+            <img id="banana4" src="/images/bananaTrap.png" class="item" alt="Banana" style="display:none;">
+            <img id="banana5" src="/images/bananaTrap.png" class="item" alt="Banana" style="display:none;">
+            <img id="banana6" src="/images/bananaTrap.png" class="item" alt="Banana" style="display:none;">
+            <img id="banana7" src="/images/bananaTrap.png" class="item" alt="Banana" style="display:none;">
+            <img id="banana8" src="/images/bananaTrap.png" class="item" alt="Banana" style="display:none;">
+            <img id="banana9" src="/images/bananaTrap.png" class="item" alt="Banana" style="display:none;">
+
+            <!-- Rockets -->
+            <img id="rocket0" src="/images/rocketDown.png" class="item" alt="Rocket" style="display:none;">
+            <img id="rocket1" src="/images/rocketDown.png" class="item" alt="Rocket" style="display:none;">
+            <img id="rocket2" src="/images/rocketDown.png" class="item" alt="Rocket" style="display:none;">
+            <img id="rocket3" src="/images/rocketDown.png" class="item" alt="Rocket" style="display:none;">
+        </div>
+        <div class="col-2">
+            <div class="row justify-content-start raceChoiceRight">
+                <div id="raceChoice4" class="col-auto">
+                    <span class="raceTitle">Bébé Circuit</span>
+                    <img src="/images/race4logo.png" alt="Course 4">
+                </div>
+                <div id="raceChoice5" class="col-auto">
+                    <span class="raceTitle">Sentier Couronne</span>
+                    <img src="/images/race5logo.png" alt="Course 5">
+                </div>
+                <div id="raceChoice6" class="col-auto">
+                    <span class="raceTitle">Bretzel Anguleux</span>
+                    <img src="/images/race6logo.png" alt="Course 6">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="rowScore">
+    <form method="post" asp-action="Jouer" id="formJeu" style="display:none;">
+        <input type="number" name="Position" />
+        <input type="number" name="Chrono" />
+        <input type="number" name="NbJoueurs" />
+        <input type="text" name="NomCourse" />
+        <button type="submit" class="btn">Soumettre le score</button>
+    </form>
+</div>
+
+
+@section GameScripts{
+    <script src="/js/script.js"></script>
+    <script src="/js/script2.js"></script>
+    <script src="/js/classes.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            init();
+        });
+    </script>
+}

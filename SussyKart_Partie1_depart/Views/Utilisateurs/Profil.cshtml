@@ -1,0 +1,25 @@
+﻿@model ProfilVM
+
+<div class="container mt-2 profil">
+    <div class="row justify-content-center">
+        <div class="col-6">
+            <h3>Mon profil <i class="bi bi-person-vcard-fill"></i></h3>
+            <div class="row align-items-center">
+                <div class="col-auto pl-2">
+                    <img src="/images/avatarPlaceholder.png" alt="Avatar">
+                </div>
+                <div class="col px-2">
+                    Nom d'utilisateur : @Model.Pseudo
+                    <br>
+                    Date d'inscription : @Model.DateInscription.ToString()
+                    <br>
+                    Adresse courriel : @Model.Courriel
+                    <br>
+                    Nombre d'amis : ???<!-- Partie 2 seulement -->
+                    <br>
+                    Compte bancaire : @Model.NoBancaire
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
