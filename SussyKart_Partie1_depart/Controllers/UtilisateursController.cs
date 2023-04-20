@@ -13,9 +13,13 @@ namespace SussyKart_Partie1.Controllers
         }
 
         [HttpPost]
-        public IActionResult Inscription(InscriptionVM ivm)
+        public IActionResult Inscription([Bind("Pseudo,Courriel,NoBancaire,MotDePasse,MotDePasseConfirmation")]InscriptionVM ivm)
         {
             // Création d'un nouvel utilisateur
+            if (ModelState.IsValid)
+            {
+                
+            }
 
             // Si l'inscription réussit :
             return RedirectToAction("Connexion", "Utilisateurs");

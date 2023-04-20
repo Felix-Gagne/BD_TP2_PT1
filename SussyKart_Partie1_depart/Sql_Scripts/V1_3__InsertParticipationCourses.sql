@@ -2,7 +2,8 @@
 --			    ParticipationCourses
 -- •○•○•○•○•○•○•○•○•○•○•○•○•○•○•○•○•○•○•○•○•○•○•○•○•
 
-INSERT INTO Courses.ParticipationCourse (Position, Chrono, NbJoueurs, DateParticipation, CourseID, UtilisateurID) VALUES
+INSERT INTO Courses.ParticipationCourse (Position, Chrono, NbJoueurs, DateParticipation, CourseID, UtilisateurID) 
+VALUES
 (1, 83, 3,'2023-01-30 00:48:46', 6, 3318),
 (3, 114, 3,'2023-03-13 03:26:40', 6, 5174),
 (1, 81, 4,'2023-03-07 06:53:31', 3, 5557),
