@@ -5,12 +5,6 @@
 USE TP2_SussyKart;
 GO
 
-CREATE schema Courses;
-GO
-
-CREATE schema Utilisateurs;
-GO
-
 CREATE TABLE Courses.Course(
 	CourseID int IDENTITY(1,1),
 	Nom varchar(50) NOT NULL,
