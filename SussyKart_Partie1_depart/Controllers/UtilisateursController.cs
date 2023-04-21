@@ -1,10 +1,24 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.Data.SqlClient;
+using Microsoft.EntityFrameworkCore;
+using SussyKart_Partie1.Data;
+using SussyKart_Partie1.Models;
 using SussyKart_Partie1.ViewModels;
+using System.Security.Claims;
 
 namespace SussyKart_Partie1.Controllers
 {
     public class UtilisateursController : Controller
     {
+
+        readonly TP2_SussyKartContext _context;
+
+        public UtilisateursController(TP2_SussyKartContext context)
+        {
+            _context = context;
+        }
 
 
         public IActionResult Inscription()
@@ -13,12 +27,33 @@ namespace SussyKart_Partie1.Controllers
         }
 
         [HttpPost]
-        public IActionResult Inscription([Bind("Pseudo,Courriel,NoBancaire,MotDePasse,MotDePasseConfirmation")]InscriptionVM ivm)
+        public async Task<IActionResult> Inscription(InscriptionVM ivm)
         {
             // Création d'un nouvel utilisateur
-            if (ModelState.IsValid)
+            bool existeDeja = await _context.Utilisateurs.AnyAsync(x => x.Pseudo == ivm.Pseudo);
+            if (existeDeja)
             {
-                
+                ModelState.AddModelError("Pseudonyme", "Ce pseudonyme est déjà pris.");
+                return View(ivm);
+            }
+
+            string query = "EXEC Utilisateurs.USP_CreerUtilisateur @Pseudo, @MotDePasse, @NoBancaire, @Email";
+            List<SqlParameter> parameters = new List<SqlParameter>
+            {
+                new SqlParameter{ParameterName = "@Pseudo", Value = ivm.Pseudo},
+                new SqlParameter{ParameterName = "@MotDePasse", Value = ivm.MotDePasse},
+                new SqlParameter{ParameterName = "@NoBancaire", Value = ivm.NoBancaire},
+                new SqlParameter{ParameterName = "@Email", Value = ivm.Courriel}
+            };
+
+            try
+            {
+                await _context.Database.ExecuteSqlRawAsync(query, parameters.ToArray());
+            }
+            catch (Exception)
+            {
+                ModelState.AddModelError("", "Une erreur est survenue. Veuillez réessayez.");
+                return View(ivm);
             }
 
             // Si l'inscription réussit :
@@ -31,15 +66,40 @@ namespace SussyKart_Partie1.Controllers
         }
 
         [HttpPost]
-        public IActionResult Connexion(ConnexionVM cvm)
+        public async Task<IActionResult> Connexion(ConnexionVM cvm)
         {
             // Authentification d'un utilisateur
+            string query = "EXEC Utilisateurs.USP_AuthUtilisateur @Pseudo, @MotDePasse";
+            List<SqlParameter> parameters = new List<SqlParameter>
+            {
+                new SqlParameter{ ParameterName = "@Pseudo", Value = cvm.Pseudo},
+                new SqlParameter{ ParameterName = "@MotDePasse", Value = cvm.MotDePasse}
+            };
+
+            Utilisateur? utilisateur = (await _context.Utilisateurs.FromSqlRaw(query, parameters.ToArray()).ToListAsync()).FirstOrDefault();
+            if (utilisateur == null)
+            {
+                ModelState.AddModelError("", "Nom d'utilisateur ou mot de passe invalide.");
+                return View(cvm);
+            }
+
+            List<Claim> claims = new List<Claim>
+            {
+                new Claim(ClaimTypes.NameIdentifier, utilisateur.UtilisateurId.ToString()),
+                new Claim(ClaimTypes.Name, utilisateur.Pseudo)
+            };
+
+            ClaimsIdentity identite = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
+            ClaimsPrincipal principal = new ClaimsPrincipal(identite);
+            await HttpContext.SignInAsync(principal);
 
             // Si la connexion réussit :
             return RedirectToAction("Index", "Jeu");
         }
 
-        public IActionResult Deconnexion() {
+        public async Task<IActionResult> Deconnexion() 
+        {
+            await HttpContext.SignOutAsync();
             return RedirectToAction("Index", "Jeu");
         }
 

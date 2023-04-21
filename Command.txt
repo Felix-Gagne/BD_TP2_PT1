@@ -1,5 +1,5 @@
 Home connection string :
-"Data Source=.\\MSSQLLocalDB;Initial Catalog=TP2_SussyKart;Integrated Security=True;Persist Security Info=False;Pooling=False;Multiple Active Result Sets=False;Encrypt=False;Trust Server Certificate=False"
+"Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=TP2_SussyKart;Integrated Security=True;Persist Security Info=False;Pooling=False;Multiple Active Result Sets=False;Encrypt=False;Trust Server Certificate=False"
 
 
 School connection string :
@@ -11,10 +11,10 @@ dotnet ef dbcontext scaffold Name=TP2_SussyKart Microsoft.EntityFrameworkCore.Sq
 
 
 Migration for V1.X at home :
-evolve migrate sqlserver -c "Server=.\MSSQLLocalDB;Initial Catalog=TP2_SussyKart;Integrated Security=True;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Encrypt=False;TrustServerCertificate=False" -s Courses -s Utilisateurs --target-version 1.3
+evolve migrate sqlserver -c "Server=(localdb)\MSSQLLocalDB;Initial Catalog=TP2_SussyKart;Integrated Security=True;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Encrypt=False;TrustServerCertificate=False" -s Courses -s Utilisateurs --target-version X.X
 
 
 Migration for V1.X at school :
-evolve migrate sqlserver -c "Server=.\SQLEXPRESS;Initial Catalog=TP2_SussyKart;Integrated Security=True;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Encrypt=False;TrustServerCertificate=False" -s Courses -s Utilisateurs --target-version 1.3
+evolve migrate sqlserver -c "Server=.\SQLEXPRESS;Initial Catalog=TP2_SussyKart;Integrated Security=True;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Encrypt=False;TrustServerCertificate=False" -s Courses -s Utilisateurs --target-version X.X
 
 
