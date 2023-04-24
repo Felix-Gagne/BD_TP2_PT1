@@ -17,4 +17,7 @@ evolve migrate sqlserver -c "Server=(localdb)\MSSQLLocalDB;Initial Catalog=TP2_S
 Migration for V1.X at school :
 evolve migrate sqlserver -c "Server=.\SQLEXPRESS;Initial Catalog=TP2_SussyKart;Integrated Security=True;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Encrypt=False;TrustServerCertificate=False" -s Courses -s Utilisateurs --target-version X.X
 
+Install evolve at school : 
+dotnet tool install --global Evolve.Tool
+
 
