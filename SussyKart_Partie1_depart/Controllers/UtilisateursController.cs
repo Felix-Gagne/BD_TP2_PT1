@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
@@ -103,15 +104,24 @@ namespace SussyKart_Partie1.Controllers
             return RedirectToAction("Index", "Jeu");
         }
 
-        public IActionResult Profil()
+        [Authorize]
+        public async Task<IActionResult> Profil()
         {
             // Dans tous les cas, on doit envoyer un ProfilVM à la vue.
-            return View(new ProfilVM() {
-                Pseudo = "Exemple",
-                DateInscription = DateTime.Now,
-                Courriel = "exemple@gmail.com",
-                NoBancaire = "123456789"
-            });
+            string pseudo = HttpContext.User.FindFirstValue(ClaimTypes.Name);
+            Utilisateur? user = await _context.Utilisateurs.FirstOrDefaultAsync(x => x.Pseudo == pseudo);
+            if(user != null)
+            {
+                return View(new ProfilVM()
+                {
+                    Pseudo = user.Pseudo,
+                    DateInscription = user.DateInscription,
+                    Courriel = user.Courriel,
+                    NoBancaire = "123456788"
+                });
+            }
+
+            return null;
         }
     }
 }

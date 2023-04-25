@@ -1,783 +1,783 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\css\\styles.css",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\css\\styles.css",
       "PackagePath": "staticwebassets\\css\\styles.css"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\avatarPlaceholder.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\avatarPlaceholder.png",
       "PackagePath": "staticwebassets\\images\\avatarPlaceholder.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\background.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\background.png",
       "PackagePath": "staticwebassets\\images\\background.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\banana.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\banana.png",
       "PackagePath": "staticwebassets\\images\\banana.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\bananaTrap.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\bananaTrap.png",
       "PackagePath": "staticwebassets\\images\\bananaTrap.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonJouer.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonJouer.png",
       "PackagePath": "staticwebassets\\images\\boutonJouer.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonProfilAmis.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonProfilAmis.png",
       "PackagePath": "staticwebassets\\images\\boutonProfilAmis.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonStatistiques.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonStatistiques.png",
       "PackagePath": "staticwebassets\\images\\boutonStatistiques.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonStats0.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonStats0.png",
       "PackagePath": "staticwebassets\\images\\boutonStats0.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonStats1.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonStats1.png",
       "PackagePath": "staticwebassets\\images\\boutonStats1.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonStats2.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonStats2.png",
       "PackagePath": "staticwebassets\\images\\boutonStats2.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonStats3.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonStats3.png",
       "PackagePath": "staticwebassets\\images\\boutonStats3.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonStats4.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonStats4.png",
       "PackagePath": "staticwebassets\\images\\boutonStats4.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonStats5.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonStats5.png",
       "PackagePath": "staticwebassets\\images\\boutonStats5.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonStats6.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonStats6.png",
       "PackagePath": "staticwebassets\\images\\boutonStats6.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonTutoriel.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonTutoriel.png",
       "PackagePath": "staticwebassets\\images\\boutonTutoriel.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\box.gif",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\box.gif",
       "PackagePath": "staticwebassets\\images\\box.gif"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\explosion.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\explosion.png",
       "PackagePath": "staticwebassets\\images\\explosion.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\itemWait.gif",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\itemWait.gif",
       "PackagePath": "staticwebassets\\images\\itemWait.gif"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\logo.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\logo.png",
       "PackagePath": "staticwebassets\\images\\logo.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\mushroom.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\mushroom.png",
       "PackagePath": "staticwebassets\\images\\mushroom.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\ombre.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\ombre.png",
       "PackagePath": "staticwebassets\\images\\ombre.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1Down.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1Down.png",
       "PackagePath": "staticwebassets\\images\\p1Down.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1DownDownLeft.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1DownDownLeft.png",
       "PackagePath": "staticwebassets\\images\\p1DownDownLeft.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1DownDownRight.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1DownDownRight.png",
       "PackagePath": "staticwebassets\\images\\p1DownDownRight.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1DownLeft.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1DownLeft.png",
       "PackagePath": "staticwebassets\\images\\p1DownLeft.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1DownLeftLeft.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1DownLeftLeft.png",
       "PackagePath": "staticwebassets\\images\\p1DownLeftLeft.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1DownRight.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1DownRight.png",
       "PackagePath": "staticwebassets\\images\\p1DownRight.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1DownRightRight.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1DownRightRight.png",
       "PackagePath": "staticwebassets\\images\\p1DownRightRight.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1Left.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1Left.png",
       "PackagePath": "staticwebassets\\images\\p1Left.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1Right.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1Right.png",
       "PackagePath": "staticwebassets\\images\\p1Right.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1Up.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1Up.png",
       "PackagePath": "staticwebassets\\images\\p1Up.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1UpLeft.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1UpLeft.png",
       "PackagePath": "staticwebassets\\images\\p1UpLeft.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1UpLeftLeft.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1UpLeftLeft.png",
       "PackagePath": "staticwebassets\\images\\p1UpLeftLeft.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1UpRight.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1UpRight.png",
       "PackagePath": "staticwebassets\\images\\p1UpRight.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1UpRightRight.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1UpRightRight.png",
       "PackagePath": "staticwebassets\\images\\p1UpRightRight.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1UpUpLeft.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1UpUpLeft.png",
       "PackagePath": "staticwebassets\\images\\p1UpUpLeft.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1UpUpRight.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1UpUpRight.png",
       "PackagePath": "staticwebassets\\images\\p1UpUpRight.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1controls.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1controls.png",
       "PackagePath": "staticwebassets\\images\\p1controls.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2Down.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2Down.png",
       "PackagePath": "staticwebassets\\images\\p2Down.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2DownDownLeft.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2DownDownLeft.png",
       "PackagePath": "staticwebassets\\images\\p2DownDownLeft.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2DownDownRight.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2DownDownRight.png",
       "PackagePath": "staticwebassets\\images\\p2DownDownRight.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2DownLeft.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2DownLeft.png",
       "PackagePath": "staticwebassets\\images\\p2DownLeft.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2DownLeftLeft.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2DownLeftLeft.png",
       "PackagePath": "staticwebassets\\images\\p2DownLeftLeft.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2DownRight.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2DownRight.png",
       "PackagePath": "staticwebassets\\images\\p2DownRight.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2DownRightRight.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2DownRightRight.png",
       "PackagePath": "staticwebassets\\images\\p2DownRightRight.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2Left.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2Left.png",
       "PackagePath": "staticwebassets\\images\\p2Left.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2Right.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2Right.png",
       "PackagePath": "staticwebassets\\images\\p2Right.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2Up.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2Up.png",
       "PackagePath": "staticwebassets\\images\\p2Up.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2UpLeft.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2UpLeft.png",
       "PackagePath": "staticwebassets\\images\\p2UpLeft.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2UpLeftLeft.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2UpLeftLeft.png",
       "PackagePath": "staticwebassets\\images\\p2UpLeftLeft.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2UpRight.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2UpRight.png",
       "PackagePath": "staticwebassets\\images\\p2UpRight.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2UpRightRight.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2UpRightRight.png",
       "PackagePath": "staticwebassets\\images\\p2UpRightRight.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2UpUpLeft.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2UpUpLeft.png",
       "PackagePath": "staticwebassets\\images\\p2UpUpLeft.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2UpUpRight.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2UpUpRight.png",
       "PackagePath": "staticwebassets\\images\\p2UpUpRight.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2controls.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2controls.png",
       "PackagePath": "staticwebassets\\images\\p2controls.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3Down.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3Down.png",
       "PackagePath": "staticwebassets\\images\\p3Down.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3DownDownLeft.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3DownDownLeft.png",
       "PackagePath": "staticwebassets\\images\\p3DownDownLeft.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3DownDownRight.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3DownDownRight.png",
       "PackagePath": "staticwebassets\\images\\p3DownDownRight.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3DownLeft.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3DownLeft.png",
       "PackagePath": "staticwebassets\\images\\p3DownLeft.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3DownLeftLeft.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3DownLeftLeft.png",
       "PackagePath": "staticwebassets\\images\\p3DownLeftLeft.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3DownRight.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3DownRight.png",
       "PackagePath": "staticwebassets\\images\\p3DownRight.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3DownRightRight.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3DownRightRight.png",
       "PackagePath": "staticwebassets\\images\\p3DownRightRight.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3Left.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3Left.png",
       "PackagePath": "staticwebassets\\images\\p3Left.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3Right.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3Right.png",
       "PackagePath": "staticwebassets\\images\\p3Right.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3Up.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3Up.png",
       "PackagePath": "staticwebassets\\images\\p3Up.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3UpLeft.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3UpLeft.png",
       "PackagePath": "staticwebassets\\images\\p3UpLeft.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3UpLeftLeft.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3UpLeftLeft.png",
       "PackagePath": "staticwebassets\\images\\p3UpLeftLeft.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3UpRight.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3UpRight.png",
       "PackagePath": "staticwebassets\\images\\p3UpRight.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3UpRightRight.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3UpRightRight.png",
       "PackagePath": "staticwebassets\\images\\p3UpRightRight.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3UpUpLeft.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3UpUpLeft.png",
       "PackagePath": "staticwebassets\\images\\p3UpUpLeft.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3UpUpRight.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3UpUpRight.png",
       "PackagePath": "staticwebassets\\images\\p3UpUpRight.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3controls.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3controls.png",
       "PackagePath": "staticwebassets\\images\\p3controls.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4Down.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4Down.png",
       "PackagePath": "staticwebassets\\images\\p4Down.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4DownDownLeft.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4DownDownLeft.png",
       "PackagePath": "staticwebassets\\images\\p4DownDownLeft.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4DownDownRight.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4DownDownRight.png",
       "PackagePath": "staticwebassets\\images\\p4DownDownRight.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4DownLeft.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4DownLeft.png",
       "PackagePath": "staticwebassets\\images\\p4DownLeft.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4DownLeftLeft.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4DownLeftLeft.png",
       "PackagePath": "staticwebassets\\images\\p4DownLeftLeft.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4DownRight.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4DownRight.png",
       "PackagePath": "staticwebassets\\images\\p4DownRight.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4DownRightRight.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4DownRightRight.png",
       "PackagePath": "staticwebassets\\images\\p4DownRightRight.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4Left.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4Left.png",
       "PackagePath": "staticwebassets\\images\\p4Left.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4Right.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4Right.png",
       "PackagePath": "staticwebassets\\images\\p4Right.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4Up.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4Up.png",
       "PackagePath": "staticwebassets\\images\\p4Up.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4UpLeft.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4UpLeft.png",
       "PackagePath": "staticwebassets\\images\\p4UpLeft.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4UpLeftLeft.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4UpLeftLeft.png",
       "PackagePath": "staticwebassets\\images\\p4UpLeftLeft.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4UpRight.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4UpRight.png",
       "PackagePath": "staticwebassets\\images\\p4UpRight.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4UpRightRight.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4UpRightRight.png",
       "PackagePath": "staticwebassets\\images\\p4UpRightRight.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4UpUpLeft.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4UpUpLeft.png",
       "PackagePath": "staticwebassets\\images\\p4UpUpLeft.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4UpUpRight.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4UpUpRight.png",
       "PackagePath": "staticwebassets\\images\\p4UpUpRight.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4controls.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4controls.png",
       "PackagePath": "staticwebassets\\images\\p4controls.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pDown.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pDown.png",
       "PackagePath": "staticwebassets\\images\\pDown.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pDownDownLeft.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pDownDownLeft.png",
       "PackagePath": "staticwebassets\\images\\pDownDownLeft.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pDownDownRight.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pDownDownRight.png",
       "PackagePath": "staticwebassets\\images\\pDownDownRight.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pDownLeft.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pDownLeft.png",
       "PackagePath": "staticwebassets\\images\\pDownLeft.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pDownLeftLeft.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pDownLeftLeft.png",
       "PackagePath": "staticwebassets\\images\\pDownLeftLeft.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pDownRight.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pDownRight.png",
       "PackagePath": "staticwebassets\\images\\pDownRight.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pDownRightRight.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pDownRightRight.png",
       "PackagePath": "staticwebassets\\images\\pDownRightRight.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pLeft.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pLeft.png",
       "PackagePath": "staticwebassets\\images\\pLeft.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pRight.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pRight.png",
       "PackagePath": "staticwebassets\\images\\pRight.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pUp.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pUp.png",
       "PackagePath": "staticwebassets\\images\\pUp.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pUpLeft.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pUpLeft.png",
       "PackagePath": "staticwebassets\\images\\pUpLeft.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pUpLeftLeft.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pUpLeftLeft.png",
       "PackagePath": "staticwebassets\\images\\pUpLeftLeft.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pUpRight.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pUpRight.png",
       "PackagePath": "staticwebassets\\images\\pUpRight.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pUpRightRight.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pUpRightRight.png",
       "PackagePath": "staticwebassets\\images\\pUpRightRight.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pUpUpLeft.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pUpUpLeft.png",
       "PackagePath": "staticwebassets\\images\\pUpUpLeft.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pUpUpRight.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pUpUpRight.png",
       "PackagePath": "staticwebassets\\images\\pUpUpRight.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race1.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race1.png",
       "PackagePath": "staticwebassets\\images\\race1.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race1logo.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race1logo.png",
       "PackagePath": "staticwebassets\\images\\race1logo.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race2.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race2.png",
       "PackagePath": "staticwebassets\\images\\race2.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race2logo.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race2logo.png",
       "PackagePath": "staticwebassets\\images\\race2logo.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race3.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race3.png",
       "PackagePath": "staticwebassets\\images\\race3.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race3logo.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race3logo.png",
       "PackagePath": "staticwebassets\\images\\race3logo.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race4.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race4.png",
       "PackagePath": "staticwebassets\\images\\race4.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race4logo.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race4logo.png",
       "PackagePath": "staticwebassets\\images\\race4logo.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race5.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race5.png",
       "PackagePath": "staticwebassets\\images\\race5.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race5logo.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race5logo.png",
       "PackagePath": "staticwebassets\\images\\race5logo.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race6.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race6.png",
       "PackagePath": "staticwebassets\\images\\race6.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race6logo.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race6logo.png",
       "PackagePath": "staticwebassets\\images\\race6logo.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\rocket.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\rocket.png",
       "PackagePath": "staticwebassets\\images\\rocket.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\rocketDown.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\rocketDown.png",
       "PackagePath": "staticwebassets\\images\\rocketDown.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\rocketDownLeft.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\rocketDownLeft.png",
       "PackagePath": "staticwebassets\\images\\rocketDownLeft.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\rocketDownRight.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\rocketDownRight.png",
       "PackagePath": "staticwebassets\\images\\rocketDownRight.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\rocketLeft.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\rocketLeft.png",
       "PackagePath": "staticwebassets\\images\\rocketLeft.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\rocketRight.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\rocketRight.png",
       "PackagePath": "staticwebassets\\images\\rocketRight.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\rocketUp.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\rocketUp.png",
       "PackagePath": "staticwebassets\\images\\rocketUp.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\rocketUpLeft.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\rocketUpLeft.png",
       "PackagePath": "staticwebassets\\images\\rocketUpLeft.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\rocketUpRight.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\rocketUpRight.png",
       "PackagePath": "staticwebassets\\images\\rocketUpRight.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\star.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\star.png",
       "PackagePath": "staticwebassets\\images\\star.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\tapisDroite.gif",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\tapisDroite.gif",
       "PackagePath": "staticwebassets\\images\\tapisDroite.gif"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\tapisGauche.gif",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\tapisGauche.gif",
       "PackagePath": "staticwebassets\\images\\tapisGauche.gif"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\tuto1.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\tuto1.png",
       "PackagePath": "staticwebassets\\images\\tuto1.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\tuto2.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\tuto2.png",
       "PackagePath": "staticwebassets\\images\\tuto2.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\tuto3.png",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\tuto3.png",
       "PackagePath": "staticwebassets\\images\\tuto3.png"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\wow.gif",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\wow.gif",
       "PackagePath": "staticwebassets\\images\\wow.gif"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\js\\classes.js",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\js\\classes.js",
       "PackagePath": "staticwebassets\\js\\classes.js"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\js\\script.js",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\js\\script.js",
       "PackagePath": "staticwebassets\\js\\script.js"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\js\\script2.js",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\js\\script2.js",
       "PackagePath": "staticwebassets\\js\\script2.js"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

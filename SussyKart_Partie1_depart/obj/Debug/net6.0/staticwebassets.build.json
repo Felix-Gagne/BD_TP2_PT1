@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IGDDaBTVV7wNJqbVL6RoFSrMaxp6+MtAQr77Mh5ahAs=",
+  "Hash": "jluhD/goXVw3p4Ph+huEF8kPjBzHORdv95nd+skjov4=",
   "Source": "SussyKart_Partie1",
   "BasePath": "_content/SussyKart_Partie1",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "SussyKart_Partie1\\wwwroot",
       "Source": "SussyKart_Partie1",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\css\\styles.css",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\css\\styles.css",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "css/styles.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\favicon.ico",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\avatarPlaceholder.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\avatarPlaceholder.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/avatarPlaceholder.png",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatarPlaceholder.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\background.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\background.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/background.png",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\images\\background.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\banana.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\banana.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/banana.png",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banana.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\bananaTrap.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\bananaTrap.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/bananaTrap.png",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bananaTrap.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonJouer.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonJouer.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/boutonJouer.png",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\images\\boutonJouer.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonProfilAmis.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonProfilAmis.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/boutonProfilAmis.png",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\images\\boutonProfilAmis.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonStatistiques.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonStatistiques.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/boutonStatistiques.png",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\images\\boutonStatistiques.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonStats0.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonStats0.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/boutonStats0.png",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\images\\boutonStats0.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonStats1.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonStats1.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/boutonStats1.png",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\images\\boutonStats1.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonStats2.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonStats2.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/boutonStats2.png",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\images\\boutonStats2.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonStats3.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonStats3.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/boutonStats3.png",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\images\\boutonStats3.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonStats4.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonStats4.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/boutonStats4.png",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\images\\boutonStats4.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonStats5.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonStats5.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/boutonStats5.png",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\images\\boutonStats5.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonStats6.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonStats6.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/boutonStats6.png",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\images\\boutonStats6.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonTutoriel.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\boutonTutoriel.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/boutonTutoriel.png",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\images\\boutonTutoriel.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\box.gif",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\box.gif",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/box.gif",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\images\\box.gif"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\explosion.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\explosion.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/explosion.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\explosion.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\itemWait.gif",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\itemWait.gif",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/itemWait.gif",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\images\\itemWait.gif"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\logo.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\logo.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/logo.png",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\mushroom.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\mushroom.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/mushroom.png",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\images\\mushroom.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\ombre.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\ombre.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/ombre.png",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ombre.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1controls.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1controls.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p1controls.png",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p1controls.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1Down.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1Down.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p1Down.png",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p1Down.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1DownDownLeft.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1DownDownLeft.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p1DownDownLeft.png",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p1DownDownLeft.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1DownDownRight.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1DownDownRight.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p1DownDownRight.png",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p1DownDownRight.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1DownLeft.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1DownLeft.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p1DownLeft.png",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p1DownLeft.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1DownLeftLeft.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1DownLeftLeft.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p1DownLeftLeft.png",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p1DownLeftLeft.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1DownRight.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1DownRight.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p1DownRight.png",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p1DownRight.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1DownRightRight.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1DownRightRight.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p1DownRightRight.png",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p1DownRightRight.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1Left.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1Left.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p1Left.png",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p1Left.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1Right.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1Right.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p1Right.png",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p1Right.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1Up.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1Up.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p1Up.png",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p1Up.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1UpLeft.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1UpLeft.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p1UpLeft.png",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p1UpLeft.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1UpLeftLeft.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1UpLeftLeft.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p1UpLeftLeft.png",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p1UpLeftLeft.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1UpRight.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1UpRight.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p1UpRight.png",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p1UpRight.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1UpRightRight.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1UpRightRight.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p1UpRightRight.png",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p1UpRightRight.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1UpUpLeft.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1UpUpLeft.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p1UpUpLeft.png",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p1UpUpLeft.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1UpUpRight.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p1UpUpRight.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p1UpUpRight.png",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p1UpUpRight.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2controls.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2controls.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p2controls.png",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p2controls.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2Down.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2Down.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p2Down.png",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p2Down.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2DownDownLeft.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2DownDownLeft.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p2DownDownLeft.png",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p2DownDownLeft.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2DownDownRight.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2DownDownRight.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p2DownDownRight.png",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p2DownDownRight.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2DownLeft.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2DownLeft.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p2DownLeft.png",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p2DownLeft.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2DownLeftLeft.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2DownLeftLeft.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p2DownLeftLeft.png",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p2DownLeftLeft.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2DownRight.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2DownRight.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p2DownRight.png",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p2DownRight.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2DownRightRight.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2DownRightRight.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p2DownRightRight.png",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p2DownRightRight.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2Left.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2Left.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p2Left.png",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p2Left.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2Right.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2Right.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p2Right.png",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p2Right.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2Up.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2Up.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p2Up.png",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p2Up.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2UpLeft.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2UpLeft.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p2UpLeft.png",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p2UpLeft.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2UpLeftLeft.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2UpLeftLeft.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p2UpLeftLeft.png",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p2UpLeftLeft.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2UpRight.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2UpRight.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p2UpRight.png",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p2UpRight.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2UpRightRight.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2UpRightRight.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p2UpRightRight.png",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p2UpRightRight.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2UpUpLeft.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2UpUpLeft.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p2UpUpLeft.png",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p2UpUpLeft.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2UpUpRight.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p2UpUpRight.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p2UpUpRight.png",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p2UpUpRight.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3controls.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3controls.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p3controls.png",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p3controls.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3Down.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3Down.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p3Down.png",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p3Down.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3DownDownLeft.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3DownDownLeft.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p3DownDownLeft.png",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p3DownDownLeft.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3DownDownRight.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3DownDownRight.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p3DownDownRight.png",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p3DownDownRight.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3DownLeft.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3DownLeft.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p3DownLeft.png",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p3DownLeft.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3DownLeftLeft.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3DownLeftLeft.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p3DownLeftLeft.png",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p3DownLeftLeft.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3DownRight.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3DownRight.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p3DownRight.png",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p3DownRight.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3DownRightRight.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3DownRightRight.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p3DownRightRight.png",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p3DownRightRight.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3Left.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3Left.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p3Left.png",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p3Left.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3Right.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3Right.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p3Right.png",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p3Right.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3Up.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3Up.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p3Up.png",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p3Up.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3UpLeft.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3UpLeft.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p3UpLeft.png",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p3UpLeft.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3UpLeftLeft.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3UpLeftLeft.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p3UpLeftLeft.png",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p3UpLeftLeft.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3UpRight.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3UpRight.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p3UpRight.png",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p3UpRight.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3UpRightRight.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3UpRightRight.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p3UpRightRight.png",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p3UpRightRight.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3UpUpLeft.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3UpUpLeft.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p3UpUpLeft.png",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p3UpUpLeft.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3UpUpRight.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p3UpUpRight.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p3UpUpRight.png",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p3UpUpRight.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4controls.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4controls.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p4controls.png",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p4controls.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4Down.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4Down.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p4Down.png",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p4Down.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4DownDownLeft.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4DownDownLeft.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p4DownDownLeft.png",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p4DownDownLeft.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4DownDownRight.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4DownDownRight.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p4DownDownRight.png",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p4DownDownRight.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4DownLeft.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4DownLeft.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p4DownLeft.png",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p4DownLeft.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4DownLeftLeft.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4DownLeftLeft.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p4DownLeftLeft.png",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p4DownLeftLeft.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4DownRight.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4DownRight.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p4DownRight.png",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p4DownRight.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4DownRightRight.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4DownRightRight.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p4DownRightRight.png",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p4DownRightRight.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4Left.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4Left.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p4Left.png",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p4Left.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4Right.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4Right.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p4Right.png",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p4Right.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4Up.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4Up.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p4Up.png",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p4Up.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4UpLeft.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4UpLeft.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p4UpLeft.png",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p4UpLeft.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4UpLeftLeft.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4UpLeftLeft.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p4UpLeftLeft.png",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p4UpLeftLeft.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4UpRight.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4UpRight.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p4UpRight.png",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p4UpRight.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4UpRightRight.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4UpRightRight.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p4UpRightRight.png",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p4UpRightRight.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4UpUpLeft.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4UpUpLeft.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p4UpUpLeft.png",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p4UpUpLeft.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4UpUpRight.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\p4UpUpRight.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/p4UpUpRight.png",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\images\\p4UpUpRight.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pDown.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pDown.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/pDown.png",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pDown.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pDownDownLeft.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pDownDownLeft.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/pDownDownLeft.png",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pDownDownLeft.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pDownDownRight.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pDownDownRight.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/pDownDownRight.png",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pDownDownRight.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pDownLeft.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pDownLeft.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/pDownLeft.png",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pDownLeft.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pDownLeftLeft.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pDownLeftLeft.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/pDownLeftLeft.png",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pDownLeftLeft.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pDownRight.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pDownRight.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/pDownRight.png",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pDownRight.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pDownRightRight.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pDownRightRight.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/pDownRightRight.png",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pDownRightRight.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pLeft.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pLeft.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/pLeft.png",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pLeft.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pRight.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pRight.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/pRight.png",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pRight.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pUp.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pUp.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/pUp.png",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pUp.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pUpLeft.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pUpLeft.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/pUpLeft.png",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pUpLeft.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pUpLeftLeft.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pUpLeftLeft.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/pUpLeftLeft.png",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pUpLeftLeft.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pUpRight.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pUpRight.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/pUpRight.png",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pUpRight.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pUpRightRight.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pUpRightRight.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/pUpRightRight.png",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pUpRightRight.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pUpUpLeft.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pUpUpLeft.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/pUpUpLeft.png",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pUpUpLeft.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pUpUpRight.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\pUpUpRight.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/pUpUpRight.png",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pUpUpRight.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race1.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race1.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/race1.png",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\images\\race1.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race1logo.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race1logo.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/race1logo.png",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\images\\race1logo.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race2.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race2.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/race2.png",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\images\\race2.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race2logo.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race2logo.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/race2logo.png",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\images\\race2logo.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race3.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race3.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/race3.png",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\images\\race3.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race3logo.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race3logo.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/race3logo.png",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\images\\race3logo.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race4.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race4.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/race4.png",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\images\\race4.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race4logo.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race4logo.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/race4logo.png",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\images\\race4logo.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race5.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race5.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/race5.png",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\images\\race5.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race5logo.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race5logo.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/race5logo.png",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\images\\race5logo.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race6.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race6.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/race6.png",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\images\\race6.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race6logo.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\race6logo.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/race6logo.png",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\images\\race6logo.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\rocket.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\rocket.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/rocket.png",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\images\\rocket.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\rocketDown.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\rocketDown.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/rocketDown.png",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\images\\rocketDown.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\rocketDownLeft.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\rocketDownLeft.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/rocketDownLeft.png",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\images\\rocketDownLeft.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\rocketDownRight.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\rocketDownRight.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/rocketDownRight.png",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\images\\rocketDownRight.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\rocketLeft.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\rocketLeft.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/rocketLeft.png",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\images\\rocketLeft.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\rocketRight.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\rocketRight.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/rocketRight.png",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\images\\rocketRight.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\rocketUp.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\rocketUp.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/rocketUp.png",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\images\\rocketUp.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\rocketUpLeft.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\rocketUpLeft.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/rocketUpLeft.png",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\images\\rocketUpLeft.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\rocketUpRight.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\rocketUpRight.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/rocketUpRight.png",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\images\\rocketUpRight.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\star.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\star.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/star.png",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\images\\star.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\tapisDroite.gif",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\tapisDroite.gif",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/tapisDroite.gif",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\images\\tapisDroite.gif"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\tapisGauche.gif",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\tapisGauche.gif",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/tapisGauche.gif",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\images\\tapisGauche.gif"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\tuto1.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\tuto1.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/tuto1.png",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\images\\tuto1.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\tuto2.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\tuto2.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/tuto2.png",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\images\\tuto2.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\tuto3.png",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\tuto3.png",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/tuto3.png",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\images\\tuto3.png"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\wow.gif",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\images\\wow.gif",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "images/wow.gif",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\images\\wow.gif"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\js\\classes.js",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\js\\classes.js",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "js/classes.js",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\js\\classes.js"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\js\\script.js",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\js\\script.js",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "js/script.js",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\js\\script.js"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\js\\script2.js",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\js\\script2.js",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "js/script2.js",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\js\\script2.js"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2788,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2805,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2822,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2839,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2856,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2890,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2907,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2941,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2958,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2975,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2992,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -3009,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -3026,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -3043,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -3060,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -3077,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -3094,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -3111,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -3128,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -3145,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -3162,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -3179,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -3196,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -3213,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -3230,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -3264,10 +3264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -3281,10 +3281,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -3298,10 +3298,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -3315,10 +3315,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "SussyKart_Partie1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2070094\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\wwwroot\\",
       "BasePath": "_content/SussyKart_Partie1",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
