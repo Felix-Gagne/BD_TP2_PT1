@@ -44,8 +44,7 @@ namespace SussyKart_Partie1.Controllers
             Utilisateur? user = await _context.Utilisateurs.FirstOrDefaultAsync(x => x.Pseudo == pseudo);
             if(user == null)
             {
-                ModelState.AddModelError("Mauvaise authorization", "Veuillez vous connecter avant");
-                return View(pvm);
+                return View("Utilisateurs", "Connexion");
             }
             else
             {

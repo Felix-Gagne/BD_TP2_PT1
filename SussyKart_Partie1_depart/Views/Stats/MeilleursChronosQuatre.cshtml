@@ -1,4 +1,4 @@
-﻿
+﻿@model MeilleurChronoSoloVM
 <div class="container">
     <h2>Meilleurs chronos pour des parties à quatre</h2>
     <div class="row justify-content-center">
@@ -7,43 +7,48 @@
                 <thead>
                     <tr>
                         <th>
-                            <!-- Pseudo du joueur -->
+                            Pseudo du joueur
                         </th>
                         <th>
-                            <!-- Nom de la course -->
+                            Nom de la course
                         </th>
                         <th>
-                            <!-- Position -->
+                            Position
                         </th>
                         <th>
-                            <!-- Chrono -->
+                            Chrono 
                         </th>
                         <th>
-                            <!-- Date de la participation -->
+                            Date de la participation
                         </th>
                     </tr>
                 </thead>
                 <tbody>
-                    <!-- █foreach (var item in Model...) -->
-                    <!--{-->
+                    @foreach (var item in Model.MeilleurChrono)
+                    {
                     <tr>
                         <td>
                             <!-- Pseudo du joueur -->
+                            @item.PseudoDuJoueur
                         </td>
                         <td>
                             <!-- Nom de la course -->
+                            @item.NomDeLaCourse
                         </td>
                         <td>
                             <!-- Position -->
+                            @item.Position
                         </td>
                         <td>
                             <!-- Chrono -->
+                            @item.Chrono
                         </td>
                         <td>
                             <!-- Date de la participation -->
+                            @item.DateParticipation
                         </td>
                     </tr>
-                    <!--}-->
+                    }
                 </tbody>
             </table>
         </div>

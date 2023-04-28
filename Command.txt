@@ -7,15 +7,17 @@ School connection string :
 
 
 Scaffold command :
-dotnet ef dbcontext scaffold Name=TP2_SussyKart Microsoft.EntityFrameworkCore.SqlServer -o Models --context-dir Data --data-annotations
+dotnet ef dbcontext scaffold Name=SussyKart Microsoft.EntityFrameworkCore.SqlServer -o Models --context-dir Data --data-annotations
 
 
 Migration for V1.X at home :
-evolve migrate sqlserver -c "Server=(localdb)\MSSQLLocalDB;Initial Catalog=TP2_SussyKart;Integrated Security=True;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Encrypt=False;TrustServerCertificate=False" -s Courses -s Utilisateurs --target-version X.X
+evolve migrate sqlserver -c "Server=(localdb)\MSSQLLocalDB;Initial Catalog=TP2_SussyKart;Integrated Security=True;Persist Security Info=False;Pooling=False;
+MultipleActiveResultSets=False;Encrypt=False;TrustServerCertificate=False" -s Courses -s Utilisateurs --target-version X.X
 
 
 Migration for V1.X at school :
-evolve migrate sqlserver -c "Server=.\SQLEXPRESS;Initial Catalog=TP2_SussyKart;Integrated Security=True;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Encrypt=False;TrustServerCertificate=False" -s Courses -s Utilisateurs --target-version X.X
+evolve migrate sqlserver -c "Server=.\SQLEXPRESS;Initial Catalog=TP2_SussyKart;Integrated Security=True;Persist Security Info=False;Pooling=False;
+MultipleActiveResultSets=False;Encrypt=False;TrustServerCertificate=False" -s Courses -s Utilisateurs --target-version X.X
 
 Install evolve at school : 
 dotnet tool install --global Evolve.Tool

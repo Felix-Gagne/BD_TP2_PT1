@@ -8,6 +8,7 @@ using SussyKart_Partie1.Data;
 using SussyKart_Partie1.Models;
 using SussyKart_Partie1.ViewModels;
 using System.Security.Claims;
+using System.Security.Principal;
 
 namespace SussyKart_Partie1.Controllers
 {
@@ -108,20 +109,29 @@ namespace SussyKart_Partie1.Controllers
         public async Task<IActionResult> Profil()
         {
             // Dans tous les cas, on doit envoyer un ProfilVM à la vue.
+            IIdentity? identite = HttpContext.User.Identity;
             string pseudo = HttpContext.User.FindFirstValue(ClaimTypes.Name);
             Utilisateur? user = await _context.Utilisateurs.FirstOrDefaultAsync(x => x.Pseudo == pseudo);
-            if(user != null)
+            if(user == null)
             {
-                return View(new ProfilVM()
-                {
-                    Pseudo = user.Pseudo,
-                    DateInscription = user.DateInscription,
-                    Courriel = user.Courriel,
-                    NoBancaire = "123456788"
-                });
+                return RedirectToAction("Connexion", "Utilisateurs");
             }
 
-            return null;
+            string query = "EXEC Utilisateurs.USP_DecryptNoBancaire @UtilisateurID";
+            List<SqlParameter> parameter = new List<SqlParameter>
+            {
+                new SqlParameter { ParameterName = "@UtilisateurID", Value = user.UtilisateurId }
+            };
+
+            Profil? profil = (await _context.Profils.FromSqlRaw(query, parameter.ToArray()).ToListAsync()).FirstOrDefault();
+
+            return View(new ProfilVM()
+            {
+                Pseudo = pseudo,
+                DateInscription = user.DateInscription,
+                Courriel = user.Courriel,
+                NoBancaire = profil.Profil1
+            });
         }
     }
 }

@@ -1981,11 +1981,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\SussyKart_Partie1.csproj",
+      "projectUniqueName": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\SussyKart_Partie1.csproj",
       "projectName": "SussyKart_Partie1",
-      "projectPath": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\SussyKart_Partie1.csproj",
+      "projectPath": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\SussyKart_Partie1.csproj",
       "packagesPath": "C:\\Users\\felix\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\felix\\Desktop\\BD_TP2_PT1\\SussyKart_Partie1_depart\\obj\\",
+      "outputPath": "C:\\Users\\felix\\Desktop\\Repo Hiver 2023\\Base de donnée\\BD_TP2_PT1\\SussyKart_Partie1_depart\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2000,7 +2000,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

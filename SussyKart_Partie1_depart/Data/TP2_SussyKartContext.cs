@@ -20,7 +20,10 @@ namespace SussyKart_Partie1.Data
         public virtual DbSet<Changelog> Changelogs { get; set; } = null!;
         public virtual DbSet<Course> Courses { get; set; } = null!;
         public virtual DbSet<ParticipationCourse> ParticipationCourses { get; set; } = null!;
+        public virtual DbSet<Profil> Profils { get; set; } = null!;
         public virtual DbSet<Utilisateur> Utilisateurs { get; set; } = null!;
+        public virtual DbSet<VwProfil> VwProfils { get; set; } = null!;
+        public virtual DbSet<VwStatsParticipation> VwStatsParticipations { get; set; } = null!;
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -49,6 +52,16 @@ namespace SussyKart_Partie1.Data
                     .HasForeignKey(d => d.UtilisateurId)
                     .OnDelete(DeleteBehavior.ClientSetNull)
                     .HasConstraintName("FK_ParticipationCourse_UtilisateurID");
+            });
+
+            modelBuilder.Entity<VwProfil>(entity =>
+            {
+                entity.ToView("VW_Profil", "Courses");
+            });
+
+            modelBuilder.Entity<VwStatsParticipation>(entity =>
+            {
+                entity.ToView("VW_StatsParticipation");
             });
 
             OnModelCreatingPartial(modelBuilder);

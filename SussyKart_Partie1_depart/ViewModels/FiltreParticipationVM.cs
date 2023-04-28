@@ -1,11 +1,14 @@
 ﻿using Microsoft.AspNetCore.Mvc.Rendering;
+using SussyKart_Partie1.Models;
 using System.ComponentModel.DataAnnotations;
 
 namespace SussyKart_Partie1.ViewModels
 {
     public class FiltreParticipationVM
     {
-		// N'hésitez pas à ajouter une List<Votre_Vue_SQL> ici !
+        // N'hésitez pas à ajouter une List<Votre_Vue_SQL> ici !
+
+        public List<VwStatsParticipation> participations { get; set; } = null!;
 		
         public string Course { get; set; } = "Toutes";
 

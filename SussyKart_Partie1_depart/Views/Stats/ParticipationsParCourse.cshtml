@@ -1,4 +1,4 @@
-﻿
+﻿@model ParticipationParCourseVM
 <div class="container">
     <h2>Nombre de participations par course</h2>
     <div class="row justify-content-center">
@@ -9,24 +9,28 @@
                     <tr>
                         <th>
                             <!-- Nom de la course -->
+                            Nom de la course
                         </th>
                         <th>
                             <!-- Nombre de participations -->
+                            Nombre de participation
                         </th>
                     </tr>
                 </thead>
                 <tbody>
-                    <!-- █foreach (var item in Model...) -->
-                    <!--{-->
+                    @foreach (var item in Model.Courses) 
+                    {
                     <tr>
                         <td>
                             <!-- Nom de la course -->
+                            @item.NomCourse
                         </td>
                         <td>
                             <!-- Nombre de participations -->
+                            @item.NbParticipation
                         </td>
                     </tr>
-                    <!--}-->
+                    }
                 </tbody>
             </table>
         </div>
