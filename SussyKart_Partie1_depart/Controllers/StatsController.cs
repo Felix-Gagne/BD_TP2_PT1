@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using SussyKart_Partie1.Data;
 using SussyKart_Partie1.Models;
 using SussyKart_Partie1.ViewModels;
+using System.Runtime.CompilerServices;
 using System.Security;
 
 namespace SussyKart_Partie1.Controllers
@@ -83,18 +84,24 @@ namespace SussyKart_Partie1.Controllers
         // Section 2 : Compléter ParticipationsParCourse OU ChronoParCourseParTour
         public async Task<IActionResult> ParticipationsParCourse()
         {
-            var ppc = new ParticipationParCourseVM();
+            List<ParticipationCourse> participations = await _context.ParticipationCourses.ToListAsync();
+            List<Course> courses = await _context.Courses.ToListAsync();
 
-            List<VwStatsParticipation> participations = await _context.VwStatsParticipations.ToListAsync();
+            List<ParticipationParCourseVM> pcvm = courses.Select(x => new ParticipationParCourseVM() 
+            { 
+                NomCourse = x.Nom, 
+                NbParticipation = participations
+                .Where(y => y.CourseId == x.CourseId)
+                .Select(z => z.UtilisateurId)
+                .Distinct()
+                .Count()
 
-            ppc.Courses = participations.GroupBy(x => x.NomDeLaCourse)
-                .Select(group => new CourseVM
-                {
-                    NomCourse = group.Key,
-                    NbParticipation = group.Count()
-                }).Take(30).ToList();
+                //or participations.Count
 
-            return View("ParticipationsParCourse", ppc);
+
+            }).ToList();
+
+            return View("ParticipationsParCourse", pcvm);
         }
 
         public IActionResult ChronoParCourseParTour()

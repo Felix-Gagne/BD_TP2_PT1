@@ -12,7 +12,7 @@ GO
 
 
 CREATE TABLE Utilisateurs.Profil(
-	Profil nvarchar(20)
+	Profil char(9)
 	);
 GO
 
@@ -30,7 +30,7 @@ BEGIN
 	OPEN SYMMETRIC KEY MaCle
 	DECRYPTION BY CERTIFICATE MonCertificat;
 
-	SELECT CONVERT(nvarchar(30), DECRYPTBYKEY(NoBancaire)) AS Profil
+	SELECT CONVERT(char(9), DECRYPTBYKEY(NoBancaire)) AS Profil
 	FROM Utilisateurs.Utilisateur WHERE UtilisateurID = @UtilisateurID;
 
 	CLOSE SYMMETRIC KEY MaCle

@@ -4,6 +4,8 @@ namespace SussyKart_Partie1.ViewModels
 {
     public class ParticipationParCourseVM
     {
-        public List<CourseVM> Courses { get; set; } = new List<CourseVM>();
+        public string NomCourse { get; set; } = null!;
+
+        public int NbParticipation { get; set; }
     }
 }
