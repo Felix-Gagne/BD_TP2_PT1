@@ -1,0 +1,65 @@
+﻿@model List<SussyKart_Partie2.ViewModels.AmiVM>
+
+<div class="container">
+    <h2>Amis</h2>
+
+     <div class="row">
+        <div class="col">
+            <form asp-action="AjouterAmi">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input hidden type="number" id="utilisateurID" name="utilisateurID" value="@ViewData["UtilisateurID"]" />
+                <div class="row align-items-center">
+                    <div class="form-group col-6">
+                        <div>
+                            <input id="pseudoAmi" name="pseudoAmi" type="text" class="form-control" placeholder="Ex. sussyprincess" />
+                        </div>
+                    </div>
+                    <div class="form-group col-6">
+                        <button type="submit" class="btn btn-light">Ajouter un ami</button>
+                    </div>
+                </div>
+            </form>
+         </div>
+     </div>
+     <hr />
+     <table class="table">
+         <thead>
+             <tr>
+                 <th>Avatar</th>
+                 <th>Pseudo</th>
+                 <th>Date d'inscription</th>
+                 <th>Date dernière partie</th>
+                 <th></th>
+             </tr>
+         </thead>
+         <tbody>
+            @foreach(var item in @Model)
+            {
+                <tr>
+                    <td>
+                        @if(item.ImageUrl != null)
+                        {
+                            <img class="avatarAmi" src="@item.ImageUrl" alt="@item.Pseudo" />
+                        }
+                        else
+                        {
+                            <img class="avatarAmi" src="/images/avatarPlaceholder.png" alt="Avatar">
+                        }
+                        
+                    </td>
+                    <td>@item.Pseudo</td>
+                    <td>@item.DateInscription</td>
+                    <td>@item.DernierePartie</td>
+                    <td>
+                        <form asp-action="SupprimerAmi">
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            <input hidden type="number" id="utilisateurID2" name="utilisateurID" value="@ViewData["UtilisateurID"]" />
+                            <input hidden type="number" id="amiID" name="amiID" value="@item.AmiID" />
+                            <button class="btn btn-danger" type="submit"><i class="bi bi-trash-fill"></i></button>
+                        </form>
+                    </td>
+                </tr>  
+            }
+        </tbody>
+     </table>
+</div>

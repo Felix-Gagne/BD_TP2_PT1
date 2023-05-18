@@ -133,5 +133,95 @@ namespace SussyKart_Partie1.Controllers
                 NoBancaire = profil.Profil1
             });
         }
+
+        // Action qui mène vers une vue qui permet de choisir un avatar pour son profil.
+        [Authorize]
+        public async Task<IActionResult> Avatar()
+        {
+            // Trouver l'utilisateur grâce à son cookie.
+
+            // Si utilisateur trouvé, retourner la vue Avatar avec un ImageUploadVM qui contient le bon UtilisateurID.
+
+            // Sinon, retourner la vue Connexion
+            return View("Connexion");
+        }
+
+        // Action qui est appelée suite à l'envoi d'un formulaire et qui change l'avatar
+        [HttpPost]
+        [Authorize]
+        public async Task<IActionResult> Avatar(ImageUploadVM iuvm)
+        {
+            // Trouver l'utilisateur grâce à son cookie
+
+            // Si aucun utilisateur trouvé, retourner la vue Connexion
+            return View("Connexion");
+
+            // Si le FormFile contient bel et bien un fichier, ajouter / remplacer 
+            // un avatar dans la BD et retourner au Profil.
+
+            // Si aucun fichier fourni, retourner à la vue Avatar.
+            return RedirectToAction("Avatar");
+        }
+
+        // Action qui mène vers une vue qui affiche notre liste d'amis et permet d'en ajouter de nouveaux.
+        [Authorize]
+        public async Task<IActionResult> Amis()
+        {
+            // Trouver l'utilisateur grâce à son cookie
+
+            // Si aucun utilisateur trouvé, retourner la vue Connexion
+            return View("Connexion");
+
+            // Sinon, retourner la vue Amis en lui transmettant une liste d'AmiVM
+            // De plus, glisser dans ViewData["utilisateurID"] l'id de l'utilisateur qui a appelé l'action. (Car c'est utilisé dans Amis.cshtml)
+        }
+
+        // Action appelée lorsque le formulaire pour ajouter un ami est rempli
+        [Authorize]
+        [HttpPost]
+        public async Task<IActionResult> AjouterAmi(int utilisateurID, string pseudoAmi)
+        {
+            // Trouver l'utilisateur qui a appelé l'action ET l'utilisateur qui sera ajouté en ami
+
+            // Si l'utilisateur qui appelle l'action n'existe pas, retourner la vue Connexion.
+            return View("Connexion");
+
+            // Si l'ami à ajouter n'existe pas rediriger vers la vue Amis.
+            return RedirectToAction("Amis");
+
+            // Si l'ami ne faisait pas déjà partie de la liste, créer une nouvelle amitié et l'ajouter dans la BD.
+            // Puis, dans tous les cas, rediriger vers la vue Amis.
+            return RedirectToAction("Amis");
+        }
+
+        // Action qui est appelée lorsqu'on appuie sur le bouton qui supprime un ami
+        [Authorize]
+        [HttpPost]
+        public async Task<IActionResult> SupprimerAmi(int utilisateurID, int amiID)
+        {
+            // Trouver l'utilisateur qui a appelé l'action ET l'utilisateur qui sera retiré des amis
+            // Si l'utilisateur qui appelle l'action n'existe pas, retourner la vue Connexion.
+            return View("Connexion");
+
+            // Si l'ami à ajouter n'existe pas rediriger vers la vue Amis.
+            return RedirectToAction("Amis");
+
+            // Supprimer l'amitié de la BD et redirigrer vers la vue Amis.
+            return RedirectToAction("Amis");
+        }
+
+        // Action qui est appelée lorsqu'un utilisateur appuie sur le bouton qui supprime son compte
+        [Authorize]
+        [HttpPost]
+        public async Task<IActionResult> DesactiverCompte(int utilisateurID)
+        {
+            // Trouver l'utilisateur avec l'id utilisateurID et s'il n'existe pas retourner la vue Connexion
+            return View("Connexion");
+
+            // " Suppimer " l'utilisateur de la BD. Votre déclencheur fera le reste.
+
+            // await HttpContext.SignOutAsync(); Même si mettre cette ligne de code serait judicieux, ne pas le faire !
+            return RedirectToAction("Index", "Jeu");
+        }
     }
 }

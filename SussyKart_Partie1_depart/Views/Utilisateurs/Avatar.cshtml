@@ -1,0 +1,22 @@
+﻿@model SussyKart_Partie2.ViewModels.ImageUploadVM
+
+<div class="container mt-2 connexion">
+    <div class="row justify-content-center">
+        <div class="col-5">
+            <h3>Changer votre avatar</h3>
+            <form asp-action="Avatar" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="number" name="UtilisateurID" hidden value="@Model.UtilisateurID" />
+                <div class="form-group">
+                    <label for="FormFile">Fichier image : (png)</label>
+                    <input id="FormFile" name="FormFile" type="file" accept="image/png" class="form-control-file" />
+                    <span asp-validation-for="FormFile" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Changer" class="btn btn-primary" />
+                </div>
+            </form>
+
+        </div>
+    </div>
+</div>

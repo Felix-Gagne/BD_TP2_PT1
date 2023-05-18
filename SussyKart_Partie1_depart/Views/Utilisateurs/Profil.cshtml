@@ -5,8 +5,16 @@
         <div class="col-6">
             <h3>Mon profil <i class="bi bi-person-vcard-fill"></i></h3>
             <div class="row align-items-center">
-                <div class="col-auto pl-2">
-                    <img src="/images/avatarPlaceholder.png" alt="Avatar">
+                <div class="col-auto pl-2 avatar">
+                    <a asp-action="Avatar"><i class="bi bi-pencil-fill"></i></a>
+                    @if (Model.ImageUrl == null)
+                    {
+                        <img src="/images/avatarPlaceholder.png" alt="Avatar">
+                    }
+                    else
+                    {
+                        <img src="@Model.ImageUrl" alt="Avatar">
+                    }
                 </div>
                 <div class="col px-2">
                     Nom d'utilisateur : @Model.Pseudo
@@ -20,6 +28,11 @@
                     Compte bancaire : @Model.NoBancaire
                 </div>
             </div>
+            //Ajout ici
+            <form asp-action="DesactiverCompte" class="mt-2">
+                <input type="number" hidden name="UtilisateurID" id="UtilisateurID" value="@ViewData["UtilisateurID"]" />
+                <button type="submit" class="btn btn-danger"><i class="bi bi-exclamation-triangle-fill"></i> Supprimer mon compte <i class="bi bi-exclamation-triangle-fill"></i></button>
+            </form>
         </div>
     </div>
 </div>

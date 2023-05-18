@@ -9,8 +9,8 @@ INSERT INTO Courses.Course (Nom, NbTours, Difficulte)
 VALUES
 ('Donut', 4, 'facile'),
 ('8 Classique', 3, 'normale'),
-('Détours confondants', 4, 'difficile'),
+('Détours Confondants', 4, 'difficile'),
 ('Bébé Circuit', 7, 'facile'),
-('Bretzel anguleux', 2, 'normale'),
-('Sentier étourdissant', 3, 'difficile');
+('Bretzel Anguleux', 2, 'normale'),
+('Sentier Couronne', 3, 'difficile');
 GO
