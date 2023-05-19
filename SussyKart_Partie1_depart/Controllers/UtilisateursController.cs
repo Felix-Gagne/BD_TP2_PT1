@@ -125,13 +125,22 @@ namespace SussyKart_Partie1.Controllers
 
             Profil? profil = (await _context.Profils.FromSqlRaw(query, parameter.ToArray()).ToListAsync()).FirstOrDefault();
 
-            return View(new ProfilVM()
+            Avatar? avatar = await _context.Avatars.Where(x => x.UtilisateurId == user.UtilisateurId).FirstOrDefaultAsync();
+
+            //int nbAmi = await _context.Amities.Count(x => x.UtilisateurId).Where(x => x.UtilisateurId == user.UtilisateurId);
+
+            ProfilVM profil1 = new ProfilVM();
+            profil1.Pseudo = pseudo;
+            profil1.DateInscription = user.DateInscription;
+            profil1.Courriel = user.Courriel;
+            profil1.NombreAmi = _context.Amities.Where(x => x.UtilisateurId == user.UtilisateurId).Count();
+            profil1.NoBancaire = profil1.NoBancaire;
+            if(avatar != null)
             {
-                Pseudo = pseudo,
-                DateInscription = user.DateInscription,
-                Courriel = user.Courriel,
-                NoBancaire = profil.Profil1
-            });
+                profil1.ImageUrl = $"data:image/png;base64,{Convert.ToBase64String(avatar.FichierImage)}";
+            }
+
+            return View(profil1);
         }
 
         // Action qui mène vers une vue qui permet de choisir un avatar pour son profil.
@@ -139,11 +148,21 @@ namespace SussyKart_Partie1.Controllers
         public async Task<IActionResult> Avatar()
         {
             // Trouver l'utilisateur grâce à son cookie.
-
+            IIdentity? identite = HttpContext.User.Identity;
+            string pseudo = HttpContext.User.FindFirstValue(ClaimTypes.Name);
+            Utilisateur? user = await _context.Utilisateurs.FirstOrDefaultAsync(x => x.Pseudo == pseudo);
+            if (user == null)
+            {
+                // Sinon, retourner la vue Connexion
+                return View("Connexion");
+            }
             // Si utilisateur trouvé, retourner la vue Avatar avec un ImageUploadVM qui contient le bon UtilisateurID.
-
-            // Sinon, retourner la vue Connexion
-            return View("Connexion");
+            else
+            {
+                ImageUploadVM avatar = new ImageUploadVM();
+                avatar.UtilisateurID = user.UtilisateurId;
+                return View("Avatar", avatar);
+            }
         }
 
         // Action qui est appelée suite à l'envoi d'un formulaire et qui change l'avatar
@@ -152,15 +171,55 @@ namespace SussyKart_Partie1.Controllers
         public async Task<IActionResult> Avatar(ImageUploadVM iuvm)
         {
             // Trouver l'utilisateur grâce à son cookie
-
+            IIdentity? identite = HttpContext.User.Identity;
+            string pseudo = HttpContext.User.FindFirstValue(ClaimTypes.Name);
+            Utilisateur? user = await _context.Utilisateurs.FirstOrDefaultAsync(x => x.Pseudo == pseudo);
+            
             // Si aucun utilisateur trouvé, retourner la vue Connexion
-            return View("Connexion");
+            if(user == null)
+            {
+                return View("Connexion");
+            }
 
             // Si le FormFile contient bel et bien un fichier, ajouter / remplacer 
             // un avatar dans la BD et retourner au Profil.
+            if (ModelState.IsValid)
+            {
+                if (iuvm.FormFile != null && iuvm.FormFile.Length >= 0)
+                {
+                    MemoryStream stream = new MemoryStream();
+                    await iuvm.FormFile.CopyToAsync(stream);
+                    byte[] fichierImage = stream.ToArray();
+
+                    Avatar? avatar = await _context.Avatars.Where(x => x.UtilisateurId == user.UtilisateurId).FirstOrDefaultAsync();
+                    if(avatar == null)
+                    {
+                        Avatar avatar1 = new Avatar
+                        {
+                            UtilisateurId = user.UtilisateurId,
+                            FichierImage = fichierImage
+                        };
+
+                        await _context.Avatars.AddAsync(avatar1);
+                    }
+                    else
+                    {
+                        avatar.FichierImage = fichierImage;
+                    }
+
+                    await _context.SaveChangesAsync();
+                    
+                }
+                
+                return RedirectToAction("Profil");
+
+            }
 
             // Si aucun fichier fourni, retourner à la vue Avatar.
-            return RedirectToAction("Avatar");
+            else
+            {
+                return RedirectToAction("Avatar");
+            }
         }
 
         // Action qui mène vers une vue qui affiche notre liste d'amis et permet d'en ajouter de nouveaux.
@@ -168,12 +227,32 @@ namespace SussyKart_Partie1.Controllers
         public async Task<IActionResult> Amis()
         {
             // Trouver l'utilisateur grâce à son cookie
-
+            IIdentity? identite = HttpContext.User.Identity;
+            string pseudo = HttpContext.User.FindFirstValue(ClaimTypes.Name);
+            Utilisateur? user = await _context.Utilisateurs.FirstOrDefaultAsync(x => x.Pseudo == pseudo);
             // Si aucun utilisateur trouvé, retourner la vue Connexion
-            return View("Connexion");
+            if(user == null)
+            {
+                return View("Connexion");
+            }
 
             // Sinon, retourner la vue Amis en lui transmettant une liste d'AmiVM
             // De plus, glisser dans ViewData["utilisateurID"] l'id de l'utilisateur qui a appelé l'action. (Car c'est utilisé dans Amis.cshtml)
+            else
+            {
+                List<AmiVM> listAmi = new List<AmiVM>();
+                List<Amitie> listAmitie = _context.Amities.Where(x => x.UtilisateurId == user.UtilisateurId).ToList();
+
+                if(listAmitie.Count > 0)
+                {
+                    foreach(var x in listAmitie)
+                    {
+                        AmiVM vm = new AmiVM();
+                    }
+                }
+
+                return View("Connexion");
+            }
         }
 
         // Action appelée lorsque le formulaire pour ajouter un ami est rempli
@@ -182,15 +261,38 @@ namespace SussyKart_Partie1.Controllers
         public async Task<IActionResult> AjouterAmi(int utilisateurID, string pseudoAmi)
         {
             // Trouver l'utilisateur qui a appelé l'action ET l'utilisateur qui sera ajouté en ami
+            Utilisateur? user = await _context.Utilisateurs.FirstOrDefaultAsync(x => x.UtilisateurId == utilisateurID);
+
+            Utilisateur? userFriend = await _context.Utilisateurs.FirstOrDefaultAsync(x => x.Pseudo == pseudoAmi);
 
             // Si l'utilisateur qui appelle l'action n'existe pas, retourner la vue Connexion.
-            return View("Connexion");
+            if(user == null)
+            {
+                return View("Connexion");
+            }
 
             // Si l'ami à ajouter n'existe pas rediriger vers la vue Amis.
-            return RedirectToAction("Amis");
+            if(userFriend == null)
+            {
+                return RedirectToAction("Amis");
+            }
 
             // Si l'ami ne faisait pas déjà partie de la liste, créer une nouvelle amitié et l'ajouter dans la BD.
             // Puis, dans tous les cas, rediriger vers la vue Amis.
+            List<Amitie> listAmi = await _context.Amities.Where(x => x.UtilisateurId == user.UtilisateurId).ToListAsync();
+
+            Amitie amitieAjouter = new Amitie()
+            {
+                UtilisateurId = user.UtilisateurId,
+                UtilisateurIdAmi = userFriend.UtilisateurId
+            };
+
+            if (!listAmi.Contains(amitieAjouter))
+            {
+                _context.Amities.Add(amitieAjouter);
+                await _context.SaveChangesAsync();
+            }
+
             return RedirectToAction("Amis");
         }
 

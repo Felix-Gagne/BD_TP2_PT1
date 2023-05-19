@@ -11,7 +11,8 @@ namespace SussyKart_Partie1.Models
     public partial class Profil
     {
         [Column("Profil")]
-        [StringLength(20)]
+        [StringLength(9)]
+        [Unicode(false)]
         public string? Profil1 { get; set; }
     }
 }

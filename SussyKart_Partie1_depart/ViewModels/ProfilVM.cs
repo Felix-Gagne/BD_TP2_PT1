@@ -6,5 +6,7 @@
         public DateTime DateInscription { get; set; }
         public string Courriel { get; set; } = null!;
         public string NoBancaire { get; set; } = null!;
+        public string? ImageUrl { get; set; }
+        public int? NombreAmi { get; set; }
     }
 }

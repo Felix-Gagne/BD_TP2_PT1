@@ -17,6 +17,8 @@ namespace SussyKart_Partie1.Data
         {
         }
 
+        public virtual DbSet<Amitie> Amities { get; set; } = null!;
+        public virtual DbSet<Avatar> Avatars { get; set; } = null!;
         public virtual DbSet<Changelog> Changelogs { get; set; } = null!;
         public virtual DbSet<Course> Courses { get; set; } = null!;
         public virtual DbSet<ParticipationCourse> ParticipationCourses { get; set; } = null!;
@@ -35,6 +37,29 @@ namespace SussyKart_Partie1.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            modelBuilder.Entity<Amitie>(entity =>
+            {
+                entity.Property(e => e.AmitieId).ValueGeneratedNever();
+
+                entity.HasOne(d => d.Utilisateur)
+                    .WithMany(p => p.AmitieUtilisateurs)
+                    .HasForeignKey(d => d.UtilisateurId)
+                    .HasConstraintName("FK_Amitie_UtilisateurID");
+
+                entity.HasOne(d => d.UtilisateurIdAmiNavigation)
+                    .WithMany(p => p.AmitieUtilisateurIdAmiNavigations)
+                    .HasForeignKey(d => d.UtilisateurIdAmi)
+                    .HasConstraintName("FK_Amitie_UtilisateurID_Ami");
+            });
+
+            modelBuilder.Entity<Avatar>(entity =>
+            {
+                entity.HasKey(e => e.ImageId)
+                    .HasName("PK_Avatar_ImageID");
+
+                entity.Property(e => e.Identifiant).HasDefaultValueSql("(newid())");
+            });
+
             modelBuilder.Entity<Changelog>(entity =>
             {
                 entity.Property(e => e.InstalledOn).HasDefaultValueSql("(getdate())");
@@ -52,6 +77,11 @@ namespace SussyKart_Partie1.Data
                     .HasForeignKey(d => d.UtilisateurId)
                     .OnDelete(DeleteBehavior.ClientSetNull)
                     .HasConstraintName("FK_ParticipationCourse_UtilisateurID");
+            });
+
+            modelBuilder.Entity<Profil>(entity =>
+            {
+                entity.Property(e => e.Profil1).IsFixedLength();
             });
 
             modelBuilder.Entity<VwProfil>(entity =>

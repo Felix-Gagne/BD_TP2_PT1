@@ -12,6 +12,8 @@ namespace SussyKart_Partie1.Models
     {
         public Utilisateur()
         {
+            AmitieUtilisateurIdAmiNavigations = new HashSet<Amitie>();
+            AmitieUtilisateurs = new HashSet<Amitie>();
             ParticipationCourses = new HashSet<ParticipationCourse>();
         }
 
@@ -31,6 +33,10 @@ namespace SussyKart_Partie1.Models
         public byte[]? MdpSel { get; set; }
         public byte[]? NoBancaire { get; set; }
 
+        [InverseProperty("UtilisateurIdAmiNavigation")]
+        public virtual ICollection<Amitie> AmitieUtilisateurIdAmiNavigations { get; set; }
+        [InverseProperty("Utilisateur")]
+        public virtual ICollection<Amitie> AmitieUtilisateurs { get; set; }
         [InverseProperty("Utilisateur")]
         public virtual ICollection<ParticipationCourse> ParticipationCourses { get; set; }
     }
