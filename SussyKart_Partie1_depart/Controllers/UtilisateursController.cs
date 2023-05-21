@@ -240,16 +240,7 @@ namespace SussyKart_Partie1.Controllers
             // De plus, glisser dans ViewData["utilisateurID"] l'id de l'utilisateur qui a appelé l'action. (Car c'est utilisé dans Amis.cshtml)
             else
             {
-                List<AmiVM> listAmi = new List<AmiVM>();
-                List<Amitie> listAmitie = _context.Amities.Where(x => x.UtilisateurId == user.UtilisateurId).ToList();
-
-                if(listAmitie.Count > 0)
-                {
-                    foreach(var x in listAmitie)
-                    {
-                        AmiVM vm = new AmiVM();
-                    }
-                }
+                List<int> liste = await _context.Amities.Where(x => x.UtilisateurId == user.UtilisateurId).Select()
 
                 return View("Connexion");
             }
@@ -303,12 +294,25 @@ namespace SussyKart_Partie1.Controllers
         {
             // Trouver l'utilisateur qui a appelé l'action ET l'utilisateur qui sera retiré des amis
             // Si l'utilisateur qui appelle l'action n'existe pas, retourner la vue Connexion.
-            return View("Connexion");
+            Utilisateur? user = await _context.Utilisateurs.FirstOrDefaultAsync(x => x.UtilisateurId == utilisateurID);
+
+            Utilisateur? amiASupprimer = await _context.Utilisateurs.FirstOrDefaultAsync(x => x.UtilisateurId == amiID);
+
+            if(user == null)
+            {
+                return View("Connexion");
+            }
 
             // Si l'ami à ajouter n'existe pas rediriger vers la vue Amis.
-            return RedirectToAction("Amis");
+            if(amiASupprimer == null)
+            {
+                return RedirectToAction("Amis");
+            }
 
             // Supprimer l'amitié de la BD et redirigrer vers la vue Amis.
+
+            Amitie? verif = await _context.Amities.FirstOrDefaultAsync(x => x.UtilisateurId == utilisateurID && )
+
             return RedirectToAction("Amis");
         }
 
@@ -318,9 +322,16 @@ namespace SussyKart_Partie1.Controllers
         public async Task<IActionResult> DesactiverCompte(int utilisateurID)
         {
             // Trouver l'utilisateur avec l'id utilisateurID et s'il n'existe pas retourner la vue Connexion
-            return View("Connexion");
+            Utilisateur? user = await _context.Utilisateurs.FirstOrDefaultAsync(x => x.UtilisateurId == utilisateurID);
+
+            if(user == null)
+            {
+                return View("Connexion");
+            }
 
             // " Suppimer " l'utilisateur de la BD. Votre déclencheur fera le reste.
+            _context.Utilisateurs.Remove(user);
+            await _context.SaveChangesAsync();
 
             // await HttpContext.SignOutAsync(); Même si mettre cette ligne de code serait judicieux, ne pas le faire !
             return RedirectToAction("Index", "Jeu");
