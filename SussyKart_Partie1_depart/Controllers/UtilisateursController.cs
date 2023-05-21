@@ -240,9 +240,17 @@ namespace SussyKart_Partie1.Controllers
             // De plus, glisser dans ViewData["utilisateurID"] l'id de l'utilisateur qui a appelé l'action. (Car c'est utilisé dans Amis.cshtml)
             else
             {
-                List<int> liste = await _context.Amities.Where(x => x.UtilisateurId == user.UtilisateurId).Select()
+                List<int?> liste = await _context.Amities.Where(x => x.UtilisateurId == user.UtilisateurId).Select(x => x.UtilisateurIdAmi).ToListAsync();
 
-                return View("Connexion");
+                List<Utilisateur> users = await _context.Utilisateurs.Where(x => liste.Contains(x.UtilisateurId)).ToListAsync();
+
+                List<AmiVM> amis = users.Select(x => new AmiVM() { AmiID = x.UtilisateurId, DateInscription = x.DateInscription,
+                    DernierePartie = x.ParticipationCourses.Count != 0 ? x.ParticipationCourses.Max(x => x.DateParticipation) : DateTime.Now,
+                    Pseudo = x.Pseudo }).ToList();
+
+                ViewData["utilisateurID"] = user.UtilisateurId;
+
+                return View("Amis", amis);
             }
         }
 
@@ -311,7 +319,10 @@ namespace SussyKart_Partie1.Controllers
 
             // Supprimer l'amitié de la BD et redirigrer vers la vue Amis.
 
-            Amitie? verif = await _context.Amities.FirstOrDefaultAsync(x => x.UtilisateurId == utilisateurID && )
+            Amitie? verif = await _context.Amities.FirstOrDefaultAsync(x => x.UtilisateurId == utilisateurID && x.UtilisateurIdAmi == amiASupprimer.UtilisateurId);
+
+            _context.Remove(verif);
+            await _context.SaveChangesAsync();
 
             return RedirectToAction("Amis");
         }
